@@ -1,0 +1,419 @@
+{
+    "type": "FeatureCollection",
+    "name": "fed37ebc-478b-41f0-9825-4135f155cf42202042-1-dgrofk.f7d9",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000001",
+                "LAD16NM": "Bolton",
+                "CAUTH16CD": "E47000001",
+                "CAUTH16NM": "Greater Manchester",
+                "OBJECTID": 0
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000002",
+                "LAD16NM": "Bury",
+                "CAUTH16CD": "E47000001",
+                "CAUTH16NM": "Greater Manchester",
+                "OBJECTID": 1
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000003",
+                "LAD16NM": "Manchester",
+                "CAUTH16CD": "E47000001",
+                "CAUTH16NM": "Greater Manchester",
+                "OBJECTID": 2
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000004",
+                "LAD16NM": "Oldham",
+                "CAUTH16CD": "E47000001",
+                "CAUTH16NM": "Greater Manchester",
+                "OBJECTID": 3
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000005",
+                "LAD16NM": "Rochdale",
+                "CAUTH16CD": "E47000001",
+                "CAUTH16NM": "Greater Manchester",
+                "OBJECTID": 4
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000006",
+                "LAD16NM": "Salford",
+                "CAUTH16CD": "E47000001",
+                "CAUTH16NM": "Greater Manchester",
+                "OBJECTID": 5
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000007",
+                "LAD16NM": "Stockport",
+                "CAUTH16CD": "E47000001",
+                "CAUTH16NM": "Greater Manchester",
+                "OBJECTID": 6
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000008",
+                "LAD16NM": "Tameside",
+                "CAUTH16CD": "E47000001",
+                "CAUTH16NM": "Greater Manchester",
+                "OBJECTID": 7
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000009",
+                "LAD16NM": "Trafford",
+                "CAUTH16CD": "E47000001",
+                "CAUTH16NM": "Greater Manchester",
+                "OBJECTID": 8
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000010",
+                "LAD16NM": "Wigan",
+                "CAUTH16CD": "E47000001",
+                "CAUTH16NM": "Greater Manchester",
+                "OBJECTID": 9
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000016",
+                "LAD16NM": "Barnsley",
+                "CAUTH16CD": "E47000002",
+                "CAUTH16NM": "Sheffield City Region",
+                "OBJECTID": 10
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000017",
+                "LAD16NM": "Doncaster",
+                "CAUTH16CD": "E47000002",
+                "CAUTH16NM": "Sheffield City Region",
+                "OBJECTID": 11
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000018",
+                "LAD16NM": "Rotherham",
+                "CAUTH16CD": "E47000002",
+                "CAUTH16NM": "Sheffield City Region",
+                "OBJECTID": 12
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000019",
+                "LAD16NM": "Sheffield",
+                "CAUTH16CD": "E47000002",
+                "CAUTH16NM": "Sheffield City Region",
+                "OBJECTID": 13
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000032",
+                "LAD16NM": "Bradford",
+                "CAUTH16CD": "E47000003",
+                "CAUTH16NM": "West Yorkshire",
+                "OBJECTID": 14
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000033",
+                "LAD16NM": "Calderdale",
+                "CAUTH16CD": "E47000003",
+                "CAUTH16NM": "West Yorkshire",
+                "OBJECTID": 15
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000034",
+                "LAD16NM": "Kirklees",
+                "CAUTH16CD": "E47000003",
+                "CAUTH16NM": "West Yorkshire",
+                "OBJECTID": 16
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000035",
+                "LAD16NM": "Leeds",
+                "CAUTH16CD": "E47000003",
+                "CAUTH16NM": "West Yorkshire",
+                "OBJECTID": 17
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000036",
+                "LAD16NM": "Wakefield",
+                "CAUTH16CD": "E47000003",
+                "CAUTH16NM": "West Yorkshire",
+                "OBJECTID": 18
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E06000006",
+                "LAD16NM": "Halton",
+                "CAUTH16CD": "E47000004",
+                "CAUTH16NM": "Liverpool City Region",
+                "OBJECTID": 19
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000011",
+                "LAD16NM": "Knowsley",
+                "CAUTH16CD": "E47000004",
+                "CAUTH16NM": "Liverpool City Region",
+                "OBJECTID": 20
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000012",
+                "LAD16NM": "Liverpool",
+                "CAUTH16CD": "E47000004",
+                "CAUTH16NM": "Liverpool City Region",
+                "OBJECTID": 21
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000013",
+                "LAD16NM": "St. Helens",
+                "CAUTH16CD": "E47000004",
+                "CAUTH16NM": "Liverpool City Region",
+                "OBJECTID": 22
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000014",
+                "LAD16NM": "Sefton",
+                "CAUTH16CD": "E47000004",
+                "CAUTH16NM": "Liverpool City Region",
+                "OBJECTID": 23
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000015",
+                "LAD16NM": "Wirral",
+                "CAUTH16CD": "E47000004",
+                "CAUTH16NM": "Liverpool City Region",
+                "OBJECTID": 24
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E06000047",
+                "LAD16NM": "County Durham",
+                "CAUTH16CD": "E47000005",
+                "CAUTH16NM": "North East",
+                "OBJECTID": 25
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E06000057",
+                "LAD16NM": "Northumberland",
+                "CAUTH16CD": "E47000005",
+                "CAUTH16NM": "North East",
+                "OBJECTID": 26
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000021",
+                "LAD16NM": "Newcastle upon Tyne",
+                "CAUTH16CD": "E47000005",
+                "CAUTH16NM": "North East",
+                "OBJECTID": 27
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000022",
+                "LAD16NM": "North Tyneside",
+                "CAUTH16CD": "E47000005",
+                "CAUTH16NM": "North East",
+                "OBJECTID": 28
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000023",
+                "LAD16NM": "South Tyneside",
+                "CAUTH16CD": "E47000005",
+                "CAUTH16NM": "North East",
+                "OBJECTID": 29
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000024",
+                "LAD16NM": "Sunderland",
+                "CAUTH16CD": "E47000005",
+                "CAUTH16NM": "North East",
+                "OBJECTID": 30
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E08000037",
+                "LAD16NM": "Gateshead",
+                "CAUTH16CD": "E47000005",
+                "CAUTH16NM": "North East",
+                "OBJECTID": 31
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E06000005",
+                "LAD16NM": "Darlington",
+                "CAUTH16CD": "E47000006",
+                "CAUTH16NM": "Tees Valley",
+                "OBJECTID": 32
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E06000001",
+                "LAD16NM": "Hartlepool",
+                "CAUTH16CD": "E47000006",
+                "CAUTH16NM": "Tees Valley",
+                "OBJECTID": 33
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E06000002",
+                "LAD16NM": "Middlesbrough",
+                "CAUTH16CD": "E47000006",
+                "CAUTH16NM": "Tees Valley",
+                "OBJECTID": 34
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E06000003",
+                "LAD16NM": "Redcar and Cleveland",
+                "CAUTH16CD": "E47000006",
+                "CAUTH16NM": "Tees Valley",
+                "OBJECTID": 35
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LAD16CD": "E06000004",
+                "LAD16NM": "Stockton-on-Tees",
+                "CAUTH16CD": "E47000006",
+                "CAUTH16NM": "Tees Valley",
+                "OBJECTID": 36
+            },
+            "geometry": null
+        }
+    ]
+}

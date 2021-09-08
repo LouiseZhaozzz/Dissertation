@@ -1,0 +1,1534 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+AMSY034C:I:2021-05-24,AMSY,34,Leigh Bus Station - St Helens Bus Station,3
+AMSY034C:O:2021-05-24,AMSY,34,St Helens Bus Station - Leigh Bus Station,3
+AMSY320:I:2021-05-24,AMSY,320,Wigan Bus Station - St Helens Bus Station,3
+AMSY320:O:2021-05-24,AMSY,320,St Helens Bus Station - Wigan Bus Station,3
+AMSY352A:I:2021-05-24,AMSY,352,Wigan Bus Station - St Helens Bus Station,3
+AMSY352A:O:2021-05-24,AMSY,352,St Helens Bus Station - Wigan Bus Station,3
+AMSY360A:I:2021-05-24,AMSY,360,Warrington Bus Station - Wigan Bus Station,3
+AMSY360A:O:2021-05-24,AMSY,360,Wigan Bus Station - Warrington Bus Station,3
+AMSY375B:I:2021-05-24,AMSY,375,Wigan - Southport,3
+AMSY375B:O:2021-05-24,AMSY,375,Southport - Wigan,3
+AMSY385:I:2021-05-24,AMSY,385,Wigan - Southport,3
+AMSY385:O:2021-05-24,AMSY,385,Southport - Wigan,3
+AMSY395C:I:2021-05-24,AMSY,395,Wigan Bus Station - Skelmesdale Bus Station,3
+AMSY395C:O:2021-05-24,AMSY,395,Skelmesdale Bus Station - Wigan Bus Station,3
+AMSY662:O:2021-03-08,AMSY,662,Billinge - St Peter's Catholic High School,3
+ANWE010A:I:2021-05-16,ANWE,10,Salford Academy - Manchester Shudehill,3
+ANWE010A:I:2021-06-06,ANWE,10,Salford Academy - Manchester Shudehill,3
+ANWE010A:I:2024-06-24,ANWE,10,Salford Academy - Manchester Shudehill,3
+ANWE010A:O:2021-05-16,ANWE,10,Manchester Shudehill - Salford Academy,3
+ANWE010A:O:2021-06-06,ANWE,10,Manchester Shudehill - Salford Academy,3
+ANWE010A:O:2024-06-24,ANWE,10,Manchester Shudehill - Salford Academy,3
+ANWE019D:I:2021-05-16,ANWE,19,Altrincham - Wythenshawe Bus Station,3
+ANWE019D:I:2021-06-06,ANWE,19,Altrincham - Wythenshawe Bus Station,3
+ANWE019D:I:2024-06-24,ANWE,19,Altrincham - Wythenshawe Bus Station,3
+ANWE019D:O:2021-05-16,ANWE,19,Wythenshawe Bus Station - Altrincham,3
+ANWE019D:O:2021-06-06,ANWE,19,Wythenshawe Bus Station - Altrincham,3
+ANWE019D:O:2024-06-24,ANWE,19,Wythenshawe Bus Station - Altrincham,3
+ANWE245:I:2021-05-16,ANWE,245,Trafford Centre - Altrincham Interchange,3
+ANWE245:I:2021-06-06,ANWE,245,Trafford Centre - Altrincham Interchange,3
+ANWE245:I:2024-06-24,ANWE,245,Trafford Centre - Altrincham Interchange,3
+ANWE245:O:2021-05-16,ANWE,245,Altrincham Interchange - Trafford Centre,3
+ANWE245:O:2021-06-06,ANWE,245,Altrincham Interchange - Trafford Centre,3
+ANWE245:O:2024-06-24,ANWE,245,Altrincham Interchange - Trafford Centre,3
+ANWE247:I:2021-05-16,ANWE,247,Trafford Centre - Altrincham,3
+ANWE247:I:2021-06-06,ANWE,247,Trafford Centre - Altrincham,3
+ANWE247:I:2024-06-24,ANWE,247,Trafford Centre - Altrincham,3
+ANWE247:O:2021-05-16,ANWE,247,Altrincham - Trafford Centre,3
+ANWE247:O:2021-06-06,ANWE,247,Altrincham - Trafford Centre,3
+ANWE247:O:2024-06-24,ANWE,247,Altrincham - Trafford Centre,3
+ANWE263:I:2021-05-16,ANWE,263,Piccadilly - Altrincham,3
+ANWE263:I:2021-06-06,ANWE,263,Piccadilly - Altrincham,3
+ANWE263:I:2024-06-24,ANWE,263,Piccadilly - Altrincham,3
+ANWE263:O:2021-05-16,ANWE,263,Altrincham - Piccadilly,3
+ANWE263:O:2021-06-06,ANWE,263,Altrincham - Piccadilly,3
+ANWE263:O:2024-06-24,ANWE,263,Altrincham - Piccadilly,3
+ANWE362:I:2021-05-16,ANWE,362,Chorley Bus Station - Wigan Bus Station,3
+ANWE362:I:2021-06-06,ANWE,362,Chorley Bus Station - Wigan Bus Station,3
+ANWE362:I:2024-06-24,ANWE,362,Chorley Bus Station - Wigan Bus Station,3
+ANWE362:O:2021-05-16,ANWE,362,Wigan Bus Station - Chorley Bus Station,3
+ANWE362:O:2021-06-06,ANWE,362,Wigan Bus Station - Chorley Bus Station,3
+ANWE362:O:2024-06-24,ANWE,362,Wigan Bus Station - Chorley Bus Station,3
+ANWE534:I:2021-05-16,ANWE,534,Oldhams Estate - Bolton,3
+ANWE534:I:2021-06-06,ANWE,534,Oldhams Estate - Bolton,3
+ANWE534:I:2024-06-24,ANWE,534,Oldhams Estate - Bolton,3
+ANWE534:O:2021-05-16,ANWE,534,Bolton - Oldhams Estate,3
+ANWE534:O:2021-06-06,ANWE,534,Bolton - Oldhams Estate,3
+ANWE534:O:2024-06-24,ANWE,534,Bolton - Oldhams Estate,3
+ANWE541A:I:2021-05-16,ANWE,541,Toppings Estate - Bolton,3
+ANWE541A:I:2021-06-06,ANWE,541,Toppings Estate - Bolton,3
+ANWE541A:I:2024-06-24,ANWE,541,Toppings Estate - Bolton,3
+ANWE541A:O:2021-05-16,ANWE,541,Bolton - Toppings Estate,3
+ANWE541A:O:2021-06-06,ANWE,541,Bolton - Toppings Estate,3
+ANWE541A:O:2024-06-24,ANWE,541,Bolton - Toppings Estate,3
+ANWE575:I:2021-05-16,ANWE,575,Wigan Bus Station - Bolton Interchange,3
+ANWE575:I:2021-06-06,ANWE,575,Wigan Bus Station - Bolton Interchange,3
+ANWE575:I:2024-06-24,ANWE,575,Wigan Bus Station - Bolton Interchange,3
+ANWE575:O:2021-05-16,ANWE,575,Bolton Interchange - Wigan Bus Station,3
+ANWE575:O:2021-06-06,ANWE,575,Bolton Interchange - Wigan Bus Station,3
+ANWE575:O:2024-06-24,ANWE,575,Bolton Interchange - Wigan Bus Station,3
+ATGB712A:O:2021-03-08,ATGB,712,Bury C of E High School - Kearsley,3
+ATGB778:I:2021-03-08,ATGB,778,Bradley Fold - Bury C of E High School,3
+ATGB778:O:2021-03-08,ATGB,778,Bury C of E High School - Bradley Fold,3
+ATGB810B:O:2021-03-08,ATGB,810,Elton High School - Radcliffe,3
+ATGB902D:I:2021-03-08,ATGB,902,Walmersley - Tottington High School,3
+ATGB908A:I:2021-03-08,ATGB,908,Heaton - Ladybridge High School,3
+ATGB912B:O:2021-03-08,ATGB,912,Ladybridge High School - Moses Gate,3
+ATGB919A:O:2021-03-08,ATGB,919,Thornleigh College - Bolton,3
+ATGB921C:O:2021-03-08,ATGB,921,Thornleigh College - Edgworth,3
+ATGB925B:I:2021-03-08,ATGB,925,Halliwell - Canon Slade School,3
+ATGB934B:I:2021-03-08,ATGB,934,Bolton - Thornleigh College,3
+ATGB934B:O:2021-03-08,ATGB,934,Thornleigh College - Bolton,3
+ATGB936I:O:2021-03-08,ATGB,936,Smithills High School - Little Lever,3
+ATGB943B:O:2021-03-08,ATGB,943,Little Lever High School - Darcy Lever,3
+ATGB944:I:2021-03-08,ATGB,944,Tonge Moor - Thornleigh College,3
+ATGB968A:I:2020-09-01,ATGB,968,Heaton - Cannon Slade School,3
+ATGB969:O:2021-03-08,ATGB,969,Canon Slade School - Bolton,3
+ATGB976C:I:2021-03-08,ATGB,976,Bradley Fold - St James' C of E High School - Mount St Joseph RC High School,3
+ATGB982D:O:2021-03-08,ATGB,982,Canon Slade School - Leigh,3
+ATGB995:I:2021-03-08,ATGB,995,Bradley Fold - Philips High School - Unsworth Academy,3
+BESW884:O:2021-03-08,BESW,884,Kingsway Park High School - Caldermoor,3
+BESW905D:O:2021-03-08,BESW,905,Canon Slade School - Westhoughton,3
+BESW906B:O:2021-03-08,BESW,906,Thornleigh College - Bradshaw Brow,3
+BESW944:I:2021-03-08,BESW,944,Bradshaw Brow - Thornleigh College,3
+BESW975A:I:2021-03-08,BESW,975,Walshaw - Canon Slade School,3
+BESW982D:I:2021-03-08,BESW,982,Leigh - Canon Slade School,3
+BEVC700:O:2021-03-08,BEVC,700,Fairfield High School - Dane Bank,3
+BEVC716D:I:2021-03-08,BEVC,716,Wythenshawe - Barlow R.C.H.S.,3
+BEVC716D:O:2021-03-08,BEVC,716,Barlow R.C.H.S. - Wythenshawe,3
+BEVC717A:I:2021-03-08,BEVC,717,Strangeways - Our Lady's R.C. High School,3
+BEVC717A:O:2021-03-08,BEVC,717,Our Lady's R.C. High School - Strangeways,3
+BEVC719D:I:2021-03-08,BEVC,719,Baguley - Barlow RC High School,3
+BEVC719D:O:2021-03-08,BEVC,719,Barlow RC High School - Baguley,3
+BEVC726:I:2021-03-08,BEVC,726,East Menchester Academy - Newton Heath,3
+BEVC728:I:2021-03-08,BEVC,728,Hulme   - Barlow RC High School,3
+BEVC729:O:2021-03-08,BEVC,729,St. Paul's High School - Britannia Hotel,3
+BEVC740:I:2021-03-08,BEVC,740,Heald Green - King David High School,3
+BEVC740:O:2021-03-08,BEVC,740,King David High School - Heald Green,3
+BEVC741:I:2021-03-08,BEVC,741,Altrincham - King David High School,3
+BEVC741:O:2021-03-08,BEVC,741,King David High School - Altrincham,3
+BEVC743:O:2021-03-08,BEVC,743,Loreto College - Heald Green,3
+BEVC748D:O:2021-03-08,BEVC,748,Burnage Academy - Gorton,3
+BEVC750:I:2021-03-08,BEVC,750,Levenshulme - Loreto Grammar Schools,3
+BEVC750:O:2021-03-08,BEVC,750,Loreto Grammar Schools - Levenshulme,3
+BEVC751:I:2021-03-08,BEVC,751,Hazel Grove - Loreto Grammar School,3
+BEVC751:O:2021-03-08,BEVC,751,Loreto Grammar School - Hazel Grove,3
+BEVC752:I:2021-03-08,BEVC,752,East Didsbury - Loreto Grammar School,3
+BEVC752:O:2021-03-08,BEVC,752,Loreto Grammar School - East Didsbury,3
+BEVC753:I:2021-03-08,BEVC,753,Heaton Mersey - ASGS/AGSB - Loreto Grammar,3
+BEVC753:O:2021-03-08,BEVC,753,Loreto Grammar - ASGS/AGSB - Heaton Mersey,3
+BEVC755A:I:2021-03-08,BEVC,755,Northern Moor - Altrincham Boys Grammar,3
+BEVC755A:O:2021-03-08,BEVC,755,Altrincham Boys Grammar - Northern Moor,3
+BEVC757:O:2021-03-08,BEVC,757,St James RC HS - Cheadle Hulme,3
+BEVC758B:I:2021-03-08,BEVC,758," St. James Catholic High School via Kingsway High School - Heald Green",3
+BEVC758B:O:2021-03-08,BEVC,758,Heald Green -  St. James Catholic High School via Kingsway High School,3
+BEVC758C:I:2021-03-08,BEVC,758,Moss Side - Altrincham GSfB,3
+BEVC758C:O:2021-03-08,BEVC,758,Altrincham GSfB - Moss Side,3
+BEVC759A:I:2021-03-08,BEVC,759,Sale - Loreto Grammar - Altrincham Girls Grammar,3
+BEVC759A:O:2021-03-08,BEVC,759,Altrincham Girls Grammar - Loreto Grammar - Sale,3
+BEVC759B:I:2021-03-08,BEVC,759,Sale - Altrincham Boys Grammar,3
+BEVC759B:O:2021-03-08,BEVC,759,Altrincham Boys Grammar - Sale,3
+BEVC760A:I:2021-03-08,BEVC,760,Warburton - Altrincham/Loreto Grammar Schools,3
+BEVC760A:O:2021-03-08,BEVC,760,Altrincham/Loreto Grammar Schools - Warburton,3
+BEVC763:I:2021-03-08,BEVC,763,Burnage - St Ambrose College,3
+BEVC763:O:2021-03-08,BEVC,763,St Ambrose College - Burnage,3
+BEVC764A:I:2021-03-08,BEVC,764,Sale Moor - St Ambrose College,3
+BEVC764A:O:2021-03-08,BEVC,764,St Ambrose College - Sale Moor,3
+BEVC765A:I:2021-03-08,BEVC,765,Sale (Dane Road) - St Ambrose College,3
+BEVC765A:O:2021-03-08,BEVC,765,St Ambrose College - Sale (Dane Road),3
+BEVC770B:I:2021-03-08,BEVC,770,Sale - Altrincham College Of Arts,3
+BEVC770B:O:2021-03-08,BEVC,770,Altrincham College Of Arts - Sale,3
+BEVC771A:I:2021-03-08,BEVC,771,Sale - Altrincham College Of Arts,3
+BEVC771A:O:2021-03-08,BEVC,771,Altrincham College Of Arts - Sale,3
+BEVC772B:I:2021-03-08,BEVC,772,Sale Moor - Altrincham College Of Arts,3
+BEVC772B:O:2021-03-08,BEVC,772,Altrincham College Of Arts - Sale Moor,3
+BEVC773B:O:2021-03-08,BEVC,773,Altrincham College of Arts - Oldfield Brow,3
+BEVC776B:I:2021-03-08,BEVC,776,Broadheath - Altrincham,3
+BEVC776B:O:2021-03-08,BEVC,776,Altrincham - Broadheath,3
+BEVC778A:I:2021-03-08,BEVC,778,Hulme - Sale High School,3
+BEVC778A:O:2021-03-08,BEVC,778,Sale High School - Hulme,3
+BEVC780:O:2021-03-08,BEVC,780,Sale Grammar School - Bowdon Vale,3
+BEVC782A:I:2021-03-08,BEVC,782,Bowdon Vale - Sale Grammar School,3
+BEVC782A:O:2021-03-08,BEVC,782,Sale Grammar School - Bowdon Vale,3
+BEVC783B:O:2021-03-08,BEVC,783,Sale Grammar School - Bowdon Vale,3
+BEVC784B:O:2021-03-08,BEVC,784,Sale Grammar - Oldfield Brow,3
+BEVC789:I:2021-03-08,BEVC,789,Davyhulme - Blessed Thomas Holford College,3
+BEVC789:O:2021-03-08,BEVC,789,Blessed Thomas Holford College - Davyhulme,3
+BEVC790:I:2021-03-08,BEVC,790,Sale - Blessed Thomas Holford,3
+BEVC790:O:2021-03-08,BEVC,790,Blessed Thomas Holford - Sale,3
+BEVC797:O:2021-03-08,BEVC,797,Wellington High School - Hale,3
+BEVC821A:I:2021-03-08,BEVC,821,Stockport - Hazel Grove High School,3
+BEVC821A:O:2021-03-08,BEVC,821,Hazel Grove High School - Stockport,3
+BEVC848:O:2021-03-08,BEVC,848,Laurus Cheadle Hulme H.S - Heald Green,3
+BEVC857:O:2021-03-08,BEVC,857,St James RCHS - Mercian Way,3
+BEVC860D:I:2021-03-08,BEVC,860,Bridge Hall - Laurus Cheadle - Cheadle Hulme High School,3
+BEVC863D:I:2021-03-08,BEVC,863,Stockport - Cheadle Hulme High School,3
+BEVC863D:O:2021-03-08,BEVC,863,Cheadle Hulme High School - Stockport,3
+BEVC869A:I:2021-03-08,BEVC,869,Burnage - St. Ambrose College,3
+BEVCH29:I:2021-03-08,BEVC,874,Hazel Grove High School - Hall Street,3
+BEVCW1:I:2021-03-08,BEVC,W1,Werneth School - Brinnington,3
+BEVCW1:O:2021-03-08,BEVC,W1,Brinnington - Werneth School,3
+BEVCW2:I:2021-03-08,BEVC,W2,Werneth School - Brinnington,3
+BEVCW2:O:2021-03-08,BEVC,W2,Brinnington - Werneth School,3
+BEVCW3:I:2021-03-08,BEVC,W3,Werneth School - Brinnington,3
+BEVCW3:O:2021-03-08,BEVC,W3,Brinnington - Werneth School,3
+BLPH981A:I:2021-03-15,BLPH,981,Blackburn - Canon Slade School - Darwen - Blackburn,3
+BLPH981A:O:2021-03-15,BLPH,981,Blackburn - Darwen - Canon Slade School - Blackburn,3
+BPTR006A:O:2021-05-02,BPTR,6,Rochdale - Kirkholt Circular,3
+BPTR0B1:I:2021-05-02,BPTR,B1,Bury - Summerseat - Ramsbottom,3
+BPTR0B1:O:2021-05-02,BPTR,B1,Ramsbottom - Summerseat - Bury,3
+BPTR0B2A:I:2021-05-02,BPTR,B2,Bury - Walmersley Road - Nangreaves,3
+BPTR0B2A:O:2021-05-02,BPTR,B2,Nangreaves - Walmersley Road - Bury,3
+BPTR0B4:I:2021-05-02,BPTR,B4,Heywood - Bury,3
+BPTR0B4:O:2021-05-02,BPTR,B4,Bury - Heywood,3
+BPTR0R1:I:2021-05-02,BPTR,R1,Syke - Rochdale Infirmary - Rochdale,3
+BPTR0R1:O:2021-05-02,BPTR,R1,Rochdale - Rochdale Infirmary - Syke,3
+BPTR0R2:I:2021-05-02,BPTR,R2,Bury - Heywood - Norden - Rochdale,3
+BPTR0R2:O:2021-05-02,BPTR,R2,Rochdale - Norden - Heywood - Bury,3
+BPTR0R3:I:2021-05-02,BPTR,R3,Rochdale - Shawclough - Wallbank,3
+BPTR0R3:O:2021-05-02,BPTR,R3,Wallbank - Shawclough - Rochdale,3
+BPTR0R4:I:2021-05-02,BPTR,R4,Ladyhouse - Milnrow - Rochdale,3
+BPTR0R4:O:2021-05-02,BPTR,R4,Rochdale - Milnrow - Ladyhouse,3
+BPTR0R5:I:2021-05-02,BPTR,R5,Peppermint Bridge - Milnrow - Rochdale,3
+BPTR0R5:O:2021-05-02,BPTR,R5,Rochdale - Milnrow - Peppermint Bridge,3
+BPTR0R7:I:2021-05-02,BPTR,R7,Castleton - Kirkholt - Rochdale,3
+BPTR0R7:O:2021-05-02,BPTR,R7,Rochdale - Kirkholt - Castleton,3
+BPTR0R9:I:2021-05-02,BPTR,R9,Rochdale - Foxholes (circular),3
+BPTR435:I:2021-05-02,BPTR,435,Buckstones - Shaw - Rochdale,3
+BPTR435:O:2021-05-02,BPTR,435,Rochdale - Shaw - Buckstones,3
+BPTR458:I:2021-05-02,ROST,458,Littleborough - Hollingworth Lake - Rochdale,3
+BPTR458:O:2021-05-02,ROST,458,Rochdale - Hollingworth Lake - Littleborough,3
+BPTR722:I:2021-05-02,BPTR,722,Cooperative Academy - Newton Heath - Monsall,3
+BPTR722:O:2021-05-02,BPTR,722,Monsall - Newton Heath - Cooperative Academy,3
+BPTR768B:I:2021-05-02,BPTR,768,Newhouse Academy - Heywood - Heap Bridge,3
+BPTR768B:O:2021-05-02,BPTR,768,Heap Bridge - Heywood - Newhouse Academy,3
+BPTR828A:I:2021-05-02,BPTR,828,Uppermill - Mossley,3
+BPTRX43:I:2021-04-16,BPTR,X43,Manchester - Prestwich - Rawtenstall - Burnley,3
+BPTRX43:O:2021-04-16,BPTR,X43,Burnley - Rawtenstall - Prestwich - Manchester,3
+BULL758:O:2021-03-08,BULL,758,Kingsway School - Outwood Road,3
+BULL813B:I:2021-03-08,BULL,813,St James High School - Stockport (BUS STATION),3
+BULL813B:O:2021-03-08,BULL,813,Stockport (BUS STATION) - St James High School,3
+BULL850A:I:2021-03-08,BULL,850,Adswood - Bramhall High School,3
+BULL850A:O:2021-03-08,BULL,850,Bramhall High School - Adswood,3
+BULL857:O:2021-03-08,BULL,857,St James RCHS - Mercian Way,3
+CUBU156A:O:2021-01-01,CUBU,156,Booths Brow - St Helens Bus Station,3
+CUBU157:I:2021-01-01,CUBU,157,Rainford Station - Makerfield - in - Ashton,3
+CUBU157:O:2021-01-01,CUBU,157,Ashton - in - Makerfield - Rainford Station,3
+DAGC088C:I:2021-04-11,DAGC,88,Macclesfield - Knutsford - Wilmslow - Altrincham,3
+DAGC088C:O:2021-04-11,DAGC,88,Altrincham - Wilmslow - Knutsford - Macclesfield,3
+DAGC0T3:I:2021-04-11,DAGC,T3,Handforth Dean - Offerton,3
+DAGC0T3:O:2021-04-11,DAGC,T3,Offerton - Handforth Dean,3
+DAGC130:I:2021-04-11,DAGC,130,Handforth - Wilmslow - Alderley Edge - Macclesfield,3
+DAGC130:O:2021-04-11,DAGC,130,Macclesfield - Alderley Edge - Wilmslow - Handforth,3
+FCHS362A:O:2021-03-08,FCHS,362,St Peters Catholic High School - Billinge,3
+FCHS395:I:2021-03-08,FCHS,395,Moat House St - Newgate Road,3
+FCHS395:O:2021-03-08,FCHS,395,Newgate Road - Moat House St,3
+FCHS603C:I:2021-03-08,FCHS,603,Winstanley - Byrchall/St Edmund Arrowsmith High Schools,3
+FCHS603C:O:2021-03-08,FCHS,603,Byrchall/St Edmund Arrowsmith High Schools - Winstanley,3
+FCHS652A:I:2021-03-08,FCHS,652,Pemberton - Byrchall/St Edmund Arrowsmith High Schools,3
+FCHS652A:O:2021-03-08,FCHS,652,Byrchall/St Edmund Arrowsmith High Schools - Pemberton,3
+FCHS657G:I:2021-03-08,FCHS,657,Ince Bar - St John Rigby /Winstanly Colleges,3
+FCHS657G:O:2021-03-08,FCHS,657,St John Rigby /Winstanly Colleges - Ince Bar,3
+FCHS663A:I:2021-03-08,FCHS,663,Atherton - St John Rigby/Winstanley Colleges,3
+FCHS663A:O:2021-03-08,FCHS,663,St John Rigby/Winstanley Colleges - Atherton,3
+FCHS664:I:2021-03-08,FCHS,664,Westleigh - Winstanley College,3
+FCHS664:O:2021-03-08,FCHS,664,Winstanley College - Westleigh,3
+FCHS665:I:2021-03-08,FCHS,665,Lowton - Winstanley College,3
+FCHS665:O:2021-03-08,FCHS,665,Winstanley College - Lowton,3
+FCHS666:I:2021-03-08,FCHS,666,Lowton - St John Rigby/Winstanley Colleges,3
+FCHS666:O:2021-03-08,FCHS,666,St John Rigby/Winstanley Colleges - Lowton,3
+FCHS907D:I:2021-03-08,FCHS,907,St John Fisher Catholic High School - Winstanley,3
+FCHS907D:O:2021-03-08,FCHS,907,Winstanley - St John Fisher Catholic High School,3
+FCHS947C:I:2021-03-08,FCHS,947,Ince Bar - St John Fisher Catholic High School,3
+FCHS951:I:2021-03-08,FCHS,951,Higher Ince - St John Rigby/Winstanley Colleges,3
+FCHS951:O:2021-03-08,FCHS,951,St John Rigby/Winstanley Colleges - Higher Ince,3
+FCHS956B:I:2021-03-08,FCHS,956,Pemberton - Hawkley Hall High School,3
+FCHS956B:O:2021-03-08,FCHS,956,Hawkley Hall High School - Pemberton,3
+FCHS961D:O:2021-03-08,FCHS,961,Winstanley College - Castle Hill,3
+FCHS962A:I:2021-03-08,FCHS,962,Ince - St John RigbyWinstanley Colleges,3
+FCHS962A:O:2021-03-08,FCHS,962,St John RigbyWinstanley Colleges - Ince,3
+FHUD587A:I:2021-03-07,FHUD,587,Rochdale - Halifax,3
+FHUD587A:O:2021-03-07,FHUD,587,Halifax - Rochdale,3
+FHUD588B:O:2021-03-07,FHUD,588,Rochdale - Littleborough,3
+FHUD589A:I:2021-03-07,FHUD,589,Rochdale - Todmorden,3
+FHUD589A:O:2021-03-07,FHUD,589,Todmorden - Rochdale,3
+FHUD590:I:2021-03-07,FHUD,590,Rochdale - Halifax,3
+FHUD590:O:2021-03-07,FHUD,590,Halifax - Rochdale,3
+FMAN006A:O:2021-05-17,FMAN,6,Rochdale - Kirkholt,3
+FMAN057:O:2021-05-17,FMAN,57,Oldham - Shaw - Rushcroft,3
+FMAN059:I:2021-05-17,FMAN,59,Oldham - Manchester,3
+FMAN059:O:2021-05-17,FMAN,59,Manchester - Oldham,3
+FMAN081:I:2021-05-17,FMAN,81,Oldham - Manchester,3
+FMAN081:O:2021-05-17,FMAN,81,Manchester - Oldham,3
+FMAN082:I:2021-05-17,FMAN,82,Sholver - Oldham,3
+FMAN082:O:2021-05-17,FMAN,82,Oldham - Sholver,3
+FMAN083A:I:2021-05-17,FMAN,83,Sholver - Manchester,3
+FMAN083A:O:2021-05-17,FMAN,83,Manchester - Sholver,3
+FMAN084A:I:2021-05-17,FMAN,84,Uppermill - Manchester,3
+FMAN084A:O:2021-05-17,FMAN,84,Manchester - Uppermill,3
+FMAN0V1:I:2021-05-09,FMAN,V1,Leigh - Tyldesley - Pendleton - Manchester City Centre - Manchester Royal Infirmary,3
+FMAN0V1:O:2021-05-09,FMAN,V1,Manchester Royal Infirmary - Manchester City Centre - Pendleton - Tyldesley - Leigh,3
+FMAN0V2:I:2021-05-09,FMAN,V2,Atherton - Tyldesley - Pendleton - Manchester City Centre - Manchester Royal Infirmary,3
+FMAN0V2:O:2021-05-09,FMAN,V2,Manchester Royal Infirmary - Manchester City Centre - Pendleton - Tyldesley - Atherton,3
+FMAN0V4:I:2021-05-09,FMAN,V4,Ellenbrook - Manchester Royal Infirmary,3
+FMAN0V4:O:2021-05-09,FMAN,V4,Manchester Royal Infirmary - Ellenbrook,3
+FMAN180:I:2021-05-17,FMAN,180,Greenfield - Oldham,3
+FMAN180:O:2021-05-17,FMAN,180,Oldham - Greenfield,3
+FMAN181:I:2021-05-17,FMAN,181,Royton - Manchester,3
+FMAN181:O:2021-05-17,FMAN,181,Manchester - Royton,3
+FMAN182:I:2021-05-17,FMAN,182,Shaw Wrens Nest - Manchester,3
+FMAN182:O:2021-05-17,FMAN,182,Manchester - Shaw Wrens Nest,3
+FMAN184:I:2021-05-17,FMAN,184,Huddersfield - Oldham,3
+FMAN184:O:2021-05-17,FMAN,184,Oldham - Huddersfield,3
+FMAN348:I:2021-05-17,FMAN,348,Ashton - Carrbrook,3
+FMAN348:O:2021-05-17,FMAN,348,Carrbrook - Ashton,3
+FMAN350:I:2021-05-17,FMAN,350,Ashton - Oldham,3
+FMAN350:O:2021-05-17,FMAN,350,Oldham - Ashton,3
+FMAN408:I:2021-05-17,FMAN,408,Rochdale - Oldham,3
+FMAN408:O:2021-05-17,FMAN,408,Oldham - Rochdale,3
+FMAN409:I:2021-05-17,FMAN,409,Ashton - Rochdale,3
+FMAN409:O:2021-05-17,FMAN,409,Rochdale - Ashton,3
+FMAN425:O:2021-05-17,FMAN,425,Oldham - Holts,3
+FMAN426:O:2021-05-17,FMAN,426,Oldham - Fitton Hill,3
+FMAN775B:I:2021-03-07,FMAN,775,St Damian's RC Science College - Fitton Hill,3
+FMAN775B:O:2021-03-07,FMAN,775,Fitton Hill - St Damian's RC Science College,3
+FMAN812:I:2021-03-07,FMAN,812,Holts - Blessed John Henry Newman College,3
+FMAN812:O:2021-03-07,FMAN,812,Blessed John Henry Newman College - Holts,3
+FMAN818A:I:2021-03-07,FMAN,818,Kingsway - Matthew Moss HS,3
+FMAN841A:O:2021-03-07,FMAN,841,Hattersley - All Saints HS Dukinfield,3
+FMAN849:O:2021-03-07,FMAN,849,Oasis Academy - Higher Blackley,3
+FMAN861C:I:2021-03-07,FMAN,861C,Waterhead Academy - Glodwick,3
+FMAN861C:O:2021-03-07,FMAN,861C,Glodwick - Waterhead Academy,3
+FMAN885A:I:2021-03-07,FMAN,885,Falinge Park - Smallbridge,3
+FMAN885A:O:2021-03-07,FMAN,885,Smallbridge - Falinge Park,3
+FMAN887C:I:2021-03-07,FMAN,887,St Cuthberts RCHS - Lane Head,3
+FMAN887C:O:2021-03-07,FMAN,887,Lane Head - St Cuthberts RCHS,3
+FMAN890F:I:2021-03-07,FMAN,890,St Cuthberts - Birch Hill,3
+FMAN890F:O:2021-03-07,FMAN,890,Birch Hill - St Cuthberts,3
+FMAN891:I:2021-03-07,FMAN,891,St Cuthberts - Shore,3
+FMAN891:O:2021-03-07,FMAN,891,Shore - St Cuthberts,3
+FMAN894A:I:2021-03-07,FMAN,894,St Cuthberts - Littleborough,3
+FMAN894A:O:2021-03-07,FMAN,894,Littleborough - St Cuthberts,3
+FMANX84:I:2021-05-17,FMAN,X84,Carrcote - Manchester,3
+FMANX84:O:2021-05-17,FMAN,X84,Manchester - Carrcote,3
+GEMS998C:I:2019-11-05,GEMS,998,Bacup Grammar School - Heywood,3
+GEMS998C:O:2019-11-05,GEMS,998,Heywood - Bacup Grammar School,3
+GEMS999A:I:2019-11-05,GEMS,999,Bacup Grammar School - Heywood,3
+GEMS999A:O:2019-11-05,GEMS,999,Heywood - Bacup Grammar School,3
+GOGO088C:I:2021-05-17,GOGO,88,Wilmslow - Hale Barns - Altrincham,3
+GOGO088C:O:2021-05-17,GOGO,88,Altrincham - Hale Barns - Wilmslow,3
+GOGO0X5A:I:2021-05-17,GOGO,X5,Sale - Sharston - Stockport,3
+GOGO0X5A:O:2021-05-17,GOGO,X5,Stockport - Sharston - Sale,3
+GOGO151:I:2021-05-17,GOGO,151,Lyne - Failsworth - Newton Heath - Moston - North Manchester General Hospital,3
+GOGO151:O:2021-05-17,GOGO,151,North Manchester General Hospital - Moston - Newton Heath - Failsworth - Lyne,3
+GOGO245:I:2021-05-17,GOGO,245,Altrincham - Sale - Stretford - Urmston - The Trafford Centre,3
+GOGO245:O:2021-05-17,GOGO,245,The Trafford Centre - Urmston - Stretford - Sale - Altrincham,3
+GOGO248:I:2021-05-17,GOGO,248,Partington - Carrington - Urmston - Trafford Park,3
+GOGO248:O:2021-05-17,GOGO,248,Trafford Park - Urmston - Carrington - Partington,3
+GOGO260A:O:2021-05-17,GOGO,260,Sale - Ashton-on-Mersey - Carrington - Partington circular,3
+GOGO261:O:2021-05-17,GOGO,261,Sale - Sale West Circular,3
+GOGO262:O:2021-05-17,GOGO,262,Sale - Sale Moor,3
+GOGO281:I:2021-05-17,GOGO,281,Sale - Timperley - Altrincham,3
+GOGO281:O:2021-05-17,GOGO,281,Altrincham - Timperley - Sale,3
+GOGO282:O:2021-05-17,GOGO,282,Altrincham - Oldfield Brow Circular,3
+GOGO283:O:2021-05-17,GOGO,283,Altrincham - Warburton - Hale Barns Circular,3
+GOGO284:O:2021-05-17,GOGO,284,Altrincham - Hale Barns Circular,3
+GOGO285A:O:2021-05-17,GOGO,285,Altrincham - Timperley Circular,3
+GOGO286A:O:2021-05-17,GOGO,286,Altrincham - Timperley Circular,3
+GOGO287A:O:2021-05-17,GOGO,287,Altrincham - Bowdon Vale Circular,3
+GOGO288:I:2021-05-17,GOGO,288,East Didsbury - Northenden - Timperley - Altrincham - Manchester Airport,3
+GOGO288:O:2021-05-17,GOGO,288,Manchester Airport - Altrincham - Timperley - Northenden - East Didsbury,3
+GOGO335:I:2021-05-17,GOGO,335,Dane Bank - Denton - Ashton,3
+GOGO335:O:2021-05-17,GOGO,335,Ashton - Denton - Dane Bank,3
+GOGO339:O:2021-05-17,GOGO,339,Ashton - Crowhill circular,3
+GOGO345:I:2021-05-17,GOGO,345,Pendle Road - Denton - Ashton,3
+GOGO345:O:2021-05-17,GOGO,345,Ashton - Denton - Pendle Road,3
+GOGO375C:I:2021-05-17,GOGO,375,Mellor - Marple - Stepping Hill - Offerton - Stockport,3
+GOGO375C:O:2021-05-17,GOGO,375,Stockport - Offerton - Stepping Hill - Marple - Mellor,3
+GOGO391A:I:2021-05-17,GOGO,391,Macclesfield - Kerridge - Poynton - Hazel Grove - Stockport,3
+GOGO391A:O:2021-05-17,GOGO,391,Stockport - Hazel Grove - Poynton - Kerridge - Macclesfield,3
+GOGO392:I:2021-05-17,GOGO,392,Macclesfield - Bollington - Poynton - Hazel Grove - Stockport,3
+GOGO392:O:2021-05-17,GOGO,392,Stockport - Hazel Grove - Poynton - Bollington - Macclesfield,3
+GOGO396B:I:2021-05-17,GOGO,396,Middleton - Mills Hill - Chadderton - Limehurst - Ashton,3
+GOGO396B:O:2021-05-17,GOGO,396,Ashton - Limehurst - Chadderton - Mills Hill - Middleton,3
+GOGO744:I:2021-03-08,GOGO,744,Eccles - Monton Green - Patricroft - Stretford - Loreto College,3
+GOGO744:O:2021-03-08,GOGO,744,Loreto College - Stretford - Patricroft - Monton Green - Eccles,3
+GOGO745A:I:2021-03-08,GOGO,745,Walkden - Swinton - Pendlebury - Irlams o’ th’ Height - Pendleton - Loreto College,3
+GOGO745A:O:2021-03-08,GOGO,745,Loreto College - Pendleton - Irlams o’ th’ Height - Pendlebury - Swinton - Walkden,3
+GOGO755A:I:2021-03-08,GOGO,755,Northern Moor - Sale Moor - Sale - Brooklands - Broomwood - Timperley Grange - Loreto Grammar School/AGSfB,3
+GOGO755A:O:2021-03-08,GOGO,755,Loreto Grammar School/AGSfB - Timperley Grange - Broomwood - Brooklands - Sale - Sale Moor - Northern Moor,3
+GOGO756:I:2021-03-08,GOGO,756,Woodsend - Flixton - Urmston - Stretford - Sale - Loreto Grammar School,3
+GOGO756:O:2021-03-08,GOGO,756,Loreto Grammar School - Sale - Stretford - Urmston - Flixton - Woodsend,3
+GOGO757A:I:2021-03-08,GOGO,757,Lostock - Davyhulme - Urmston - Lostock - Stretford - Sale - Loreto Grammar School/AGSfG,3
+GOGO757A:O:2021-03-08,GOGO,757,Loreto Grammar School/AGSfG - Sale - Stretford - Lostock - Urmston - Davyhulme - Lostock,3
+GOGO766:I:2021-03-08,GOGO,766,Davyhulme - Woodsend - Flixton - Urmston - Stretford - Chorlton - St Ambrose College,3
+GOGO766:O:2021-03-08,GOGO,766,St Ambrose College - Chorlton - Stretford - Urmston - Flixton - Woodsend - Davyhulme,3
+GOGO774A:I:2021-03-08,GOGO,774,Wythenshawe - Newall Green - Baguley - Altrincham College of Arts,3
+GOGO781A:I:2021-03-08,GOGO,781,Moss Side - Withington - Didsbury - East Didsbury - Gatley - Northenden - Sale Grammar School,3
+GOGO781A:O:2021-03-08,GOGO,781,Sale Grammar School - Northenden - Gatley - East Didsbury - Didsbury - Withington - Moss Side,3
+GOGO783B:I:2021-03-08,GOGO,783,Bowdon Vale - Bowdon - Hale - Oldfield Brow - Broadheath - Sale Grammar School,3
+GOGO785:I:2021-03-08,GOGO,785,Hulme - Firswood - Gorse Hill - Stretford - St Anthony's Catholic College,3
+GOGO785:O:2021-03-08,GOGO,785,St Anthony's Catholic College - Stretford - Gorse Hill - Firswood - Hulme,3
+GOGO789:I:2021-03-08,GOGO,789,Lostock - Davyhulme - Flixton - Urmston - Stretford - Sale - Blessed Thomas Holford Catholic College,3
+GOGO789:O:2021-03-08,GOGO,789,Blessed Thomas Holford Catholic College - Sale - Stretford - Urmston - Flixton - Davyhulme - Lostock,3
+GOGO790:O:2021-03-08,GOGO,790,Blessed Thomas Holford Catholic College - Ashton - Sale,3
+GOGO791:O:2021-03-08,GOGO,791,Sale Moor - Blessed Thomas Holford Catholic College,3
+GOGO84A:I:2021-05-17,GOGO,84A,Davyhulme - Stretford - Merseybank,3
+GOGO84A:O:2021-05-17,GOGO,84A,Merseybank - Stretford - Davyhulme,3
+GONW001D:O:2021-04-27,GONW,1,Piccadilly - Chinatown - Spinningfields circular,3
+GONW002B:O:2021-04-27,GONW,2,Piccadilly - Victoria - Deansgate circular,3
+GONW003A:O:2021-04-27,GONW,3,Piccadilly - Deansgate - Victoria circular,3
+GONW017:I:2021-04-27,GONW,17,Rochdale - Middleton - Manchester,3
+GONW017:O:2021-04-27,GONW,17,Manchester - Middleton - Rochdale,3
+GONW018C:O:2021-04-27,GONW,18,MRI - Manchester - Middleton - Langley,3
+GONW033:I:2021-04-27,GONW,33,Worsley - Eccles - Eccles New Rd - Manchester,3
+GONW033:O:2021-04-27,GONW,33,Manchester - Eccles New Rd - Eccles - Worsley,3
+GONW034:I:2021-04-27,GONW,34,Leigh - Worsley - Manchester,3
+GONW034:O:2021-04-27,GONW,34,Manchester - Worsley - Leigh,3
+GONW041:I:2021-04-27,GONW,41,Sale - MRI - Manchester - NMGH - Middleton,3
+GONW041:O:2021-04-27,GONW,41,Middleton - NMGH - Manchester - MRI - Sale,3
+GONW052:I:2021-04-27,GONW,52,Failsworth - Cheetham Hill - Salford Shopping Ctr - Eccles - Trafford Centre,3
+GONW052:O:2021-04-27,GONW,52,Trafford Centre - Eccles - Salford Shopping Ctr - Cheetham Hill - Failsworth,3
+GONW053:I:2021-04-27,GONW,53,Salford - Cheetham Hill,3
+GONW053:O:2021-04-27,GONW,53,Cheetham Hill - Salford,3
+GONW067:I:2021-04-27,GONW,67,Cadishead - Irlam -  Eccles - Salford Shopping Centre - Manchester,3
+GONW067:O:2021-04-27,GONW,67,Manchester - Salford Shopping Centre -  Eccles - Irlam - Cadishead,3
+GONW092:I:2021-04-27,GONW,92,Bury - Pilsworth - Hollins - Unsworth - Carr Clough - Agecroft - Manchester,3
+GONW092:O:2021-04-27,GONW,92,Manchester - Agecroft - Carr Clough - Unsworth - Hollins - Pilsworth - Bury,3
+GONW093:I:2021-04-27,GONW,93,Bury - Sunnybank - Unsworth - Whitefield - Carr Clough - Agecroft - Manchester,3
+GONW093:O:2021-04-27,GONW,93,Manchester - Agecroft - Carr Clough - Whitefield - Unsworth - Sunnybank - Bury,3
+GONW095B:I:2021-04-27,GONW,95,Salford Shopping Centre - Carr Clough - Prestwich - Unsworth - Bury,3
+GONW095B:O:2021-04-27,GONW,95,Bury - Unsworth - Prestwich - Carr Clough - Salford Shopping Centre,3
+GONW096:I:2021-04-27,GONW,96,Simister - Manchester,3
+GONW096:O:2021-04-27,GONW,96,Manchester - Simister,3
+GONW097:I:2021-04-27,GONW,97,Bury - Unsworth - Whitefield - Lower Broughton - Manchester,3
+GONW097:O:2021-04-27,GONW,97,Manchester - Lower Broughton - Whitefield - Unsworth - Bury,3
+GONW098A:I:2021-04-27,GONW,98,Bury - Radcliffe - Whitefield - Lower Broughton - Manchester,3
+GONW098A:O:2021-04-27,GONW,98,Manchester - Lower Broughton - Whitefield - Radcliffe - Bury,3
+GONW100C:I:2021-04-27,GONW,100,Warrington - Irlam - intu Trafford Centre - Eccles - Salford Shopping Centre - Manchester,3
+GONW100C:O:2021-04-27,GONW,100,Manchester - Salford Shopping Centre - Eccles - intu Trafford Centre - Irlam - Warrington,3
+GONW129B:O:2021-04-27,GONW,129,Middleton - Stanycliffe - Boarshaw circular,3
+GONW135:I:2021-04-27,GONW,135,Bury - Whitefield - Cheetham Hill - Manchester,3
+GONW135:O:2021-04-27,GONW,135,Manchester - Cheetham Hill - Whitefield - Bury,3
+GONW17AA:I:2021-04-27,GONW,17A,Manchester - Stakehill Industrial Estate - Manchester,3
+GONW17AA:O:2021-04-27,GONW,17A,Manchester - Stakehill Industrial Estate - Manchester,3
+GONW17B:O:2021-04-27,GONW,17B,Middleton - Stakehill circular,3
+GONW33B:I:2021-04-27,GONW,33B,Brookhouse - Eccles - Eccles New Rd - Manchester,3
+GONW415:I:2021-04-27,GONW,415,Middleton - Oldham,3
+GONW415:O:2021-04-27,GONW,415,Oldham - Middleton,3
+GONW67A:I:2021-04-27,GONW,67A,Cadishead - Irlam Merlin Rd -  Eccles - Salford Shopping Centre - Manchester,3
+GONW67A:O:2021-04-27,GONW,67A,Manchester - Salford Shopping Centre -  Eccles - Irlam Merlin Rd - Cadishead,3
+GONW765B:O:2021-04-19,GONW,765,Manchester New Road/Moss Lane - Newhouse Academy,3
+GONW791A:I:2021-04-19,GONW,791,Parrenthorn HS - Cheetham Hill - Victoria Ave,3
+GONW791A:O:2021-04-19,GONW,791,Victoria Ave - Cheetham Hill - Parrenthorn HS,3
+GTRI008A:I:2021-05-24,GTRI,8,Bolton - Farnworth - Pendlebury - Salford Shopping Centre - Manchester,3
+GTRI008A:I:2021-06-07,GTRI,8,Bolton - Farnworth - Pendlebury - Salford Shopping Centre - Manchester,3
+GTRI008A:I:2021-06-17,GTRI,8,Bolton - Farnworth - Pendlebury - Salford Shopping Centre - Manchester,3
+GTRI008A:O:2021-05-24,GTRI,8,Manchester - Salford Shopping Centre - Pendlebury - Farnworth - Bolton,3
+GTRI008A:O:2021-06-07,GTRI,8,Manchester - Salford Shopping Centre - Pendlebury - Farnworth - Bolton,3
+GTRI008A:O:2021-06-17,GTRI,8,Manchester - Salford Shopping Centre - Pendlebury - Farnworth - Bolton,3
+GTRI018:I:2021-05-09,GTRI,18,Manchester Airport - Wythenshawe - The Trafford Centre - Eccles,3
+GTRI018:O:2021-05-09,GTRI,18,Eccles - The Trafford Centre - Wythenshawe - Manchester Airport,3
+GTRI020:I:2021-05-09,GTRI,20,The Trafford Centre - Eccles - Walkden - Little Hulton - Logistics North - Deane - Bolton,3
+GTRI020:O:2021-05-09,GTRI,20,Bolton - Deane - Logistics North - Little Hulton - Walkden - Eccles - The Trafford Centre,3
+GTRI021:I:2021-05-24,GTRI,21,The Trafford Centre - Eccles - Swinton - Agecroft,3
+GTRI021:I:2021-06-07,GTRI,21,The Trafford Centre - Eccles - Swinton - Agecroft,3
+GTRI021:I:2021-06-17,GTRI,21,The Trafford Centre - Eccles - Swinton - Agecroft,3
+GTRI021:O:2021-05-24,GTRI,21,Agecroft - Swinton - Eccles - The Trafford Centre,3
+GTRI021:O:2021-06-07,GTRI,21,Agecroft - Swinton - Eccles - The Trafford Centre,3
+GTRI021:O:2021-06-17,GTRI,21,Agecroft - Swinton - Eccles - The Trafford Centre,3
+GTRI022A:I:2021-05-24,GTRI,22,The Trafford Centre - Eccles - Swinton - Farnworth - Bolton,3
+GTRI022A:I:2021-06-07,GTRI,22,The Trafford Centre - Eccles - Swinton - Farnworth - Bolton,3
+GTRI022A:I:2021-06-17,GTRI,22,The Trafford Centre - Eccles - Swinton - Farnworth - Bolton,3
+GTRI022A:O:2021-05-24,GTRI,22,Bolton - Farnworth - Swinton - Eccles - The Trafford Centre,3
+GTRI022A:O:2021-06-07,GTRI,22,Bolton - Farnworth - Swinton - Eccles - The Trafford Centre,3
+GTRI022A:O:2021-06-17,GTRI,22,Bolton - Farnworth - Swinton - Eccles - The Trafford Centre,3
+GTRI029:I:2021-05-09,GTRI,29,Media City UK - Salford Royal Hospital - Swinton - Boothstown,3
+GTRI029:O:2021-05-09,GTRI,29,Boothstown - Swinton - Salford Royal Hospital - Media City UK,3
+GTRI036:I:2021-05-24,GTRI,36,Bolton - Royal Bolton Hospital - Little Hulton - Swinton - Salford Shopping Centre - Manchester,3
+GTRI036:I:2021-06-07,GTRI,36,Bolton - Royal Bolton Hospital - Little Hulton - Swinton - Salford Shopping Centre - Manchester,3
+GTRI036:I:2021-06-17,GTRI,36,Bolton - Royal Bolton Hospital - Little Hulton - Swinton - Salford Shopping Centre - Manchester,3
+GTRI036:O:2021-05-24,GTRI,36,Manchester - Salford Shopping Centre - Swinton - Little Hulton - Royal Bolton Hospital - Bolton,3
+GTRI036:O:2021-06-07,GTRI,36,Manchester - Salford Shopping Centre - Swinton - Little Hulton - Royal Bolton Hospital - Bolton,3
+GTRI036:O:2021-06-17,GTRI,36,Manchester - Salford Shopping Centre - Swinton - Little Hulton - Royal Bolton Hospital - Bolton,3
+GTRI037A:I:2021-05-24,GTRI,37,Bolton - Farnworth - Swinton - Salford Shopping Centre - Manchester,3
+GTRI037A:I:2021-06-07,GTRI,37,Bolton - Farnworth - Swinton - Salford Shopping Centre - Manchester,3
+GTRI037A:I:2021-06-17,GTRI,37,Bolton - Farnworth - Swinton - Salford Shopping Centre - Manchester,3
+GTRI037A:O:2021-05-24,GTRI,37,Manchester - Salford Shopping Centre - Swinton - Farnworth - Bolton,3
+GTRI037A:O:2021-06-07,GTRI,37,Manchester - Salford Shopping Centre - Swinton - Farnworth - Bolton,3
+GTRI037A:O:2021-06-17,GTRI,37,Manchester - Salford Shopping Centre - Swinton - Farnworth - Bolton,3
+GTRI065B:O:2021-05-09,GTRI,65,Eccles - Monton Green - Alder Forest Circular,3
+GTRI066:I:2021-05-09,GTRI,66,Eccles - Worsley - Swinton - Pendlebury - Prestwich,3
+GTRI066:O:2021-05-09,GTRI,66,Prestwich - Pendlebury - Swinton - Worsley - Eccles,3
+GTRI070B:I:2021-05-09,GTRI,70,Pendleton - Ellesmere Park - Eccles,3
+GTRI070B:O:2021-05-09,GTRI,70,Eccles - Ellesmere Park - Pendleton,3
+GTRI074A:O:2021-05-09,GTRI,74,Pendleton Salford Shopping Centre - Seedley - Agecroft Circular,3
+GTRI075A:O:2021-05-09,GTRI,75,Pendleton Salford Shopping Centre - Seedley - Agecroft Circular,3
+GTRI079:I:2021-05-09,GTRI,79,Stretford - Media City UK - Pendleton Salford Shopping Centre,3
+GTRI079:O:2021-05-09,GTRI,79,Pendleton Salford Shopping Centre - Media City UK - Stretford,3
+GTRI126C:I:2021-05-09,GTRI,126,Leigh - Boothstown - The Trafford Centre,3
+GTRI126C:O:2021-05-09,GTRI,126,The Trafford Centre - Boothstown - Leigh,3
+GTRI132A:I:2021-05-09,GTRI,132,Wigan - Hindley - Atherton - Tyldesley - Boothstown - The Trafford Centre,3
+GTRI132A:O:2021-05-09,GTRI,132,The Trafford Centre - Boothstown - Tyldesley - Atherton - Hindley - Wigan,3
+GTRI162A:I:2021-05-24,GTRI,162,Norden - Langley - Middleton - Manchester,3
+GTRI162A:I:2021-06-07,GTRI,162,Norden - Langley - Middleton - Manchester,3
+GTRI162A:I:2021-06-17,GTRI,162,Norden - Langley - Middleton - Manchester,3
+GTRI162A:O:2021-05-24,GTRI,162,Manchester - Middleton - Langley - Norden,3
+GTRI162A:O:2021-06-07,GTRI,162,Manchester - Middleton - Langley - Norden,3
+GTRI162A:O:2021-06-17,GTRI,162,Manchester - Middleton - Langley - Norden,3
+GTRI163:I:2021-05-24,GTRI,163,Bury - Langley - Middleton - Manchester,3
+GTRI163:I:2021-06-07,GTRI,163,Bury - Langley - Middleton - Manchester,3
+GTRI163:I:2021-06-17,GTRI,163,Bury - Langley - Middleton - Manchester,3
+GTRI163:O:2021-05-24,GTRI,163,Manchester - Middleton - Langley - Bury,3
+GTRI163:O:2021-06-07,GTRI,163,Manchester - Middleton - Langley - Bury,3
+GTRI163:O:2021-06-17,GTRI,163,Manchester - Middleton - Langley - Bury,3
+GTRI171:I:2021-05-24,GTRI,171,East Didsbury - Burnage - Gorton - Droylsden - Newton Heath,3
+GTRI171:I:2021-06-07,GTRI,171,East Didsbury - Burnage - Gorton - Droylsden - Newton Heath,3
+GTRI171:I:2021-06-17,GTRI,171,East Didsbury - Burnage - Gorton - Droylsden - Newton Heath,3
+GTRI171:O:2021-05-24,GTRI,171,Newton Heath - Droylsden - Gorton - Burnage - East Didsbury,3
+GTRI171:O:2021-06-07,GTRI,171,Newton Heath - Droylsden - Gorton - Burnage - East Didsbury,3
+GTRI171:O:2021-06-17,GTRI,171,Newton Heath - Droylsden - Gorton - Burnage - East Didsbury,3
+GTRI172:I:2021-05-24,GTRI,172,Southern Cemetery - Burnage - Gorton - Droylsden - Newton Heath,3
+GTRI172:I:2021-06-07,GTRI,172,Southern Cemetery - Burnage - Gorton - Droylsden - Newton Heath,3
+GTRI172:I:2021-06-17,GTRI,172,Southern Cemetery - Burnage - Gorton - Droylsden - Newton Heath,3
+GTRI172:O:2021-05-24,GTRI,172,Newton Heath - Droylsden - Gorton - Burnage - Southern Cemetery,3
+GTRI172:O:2021-06-07,GTRI,172,Newton Heath - Droylsden - Gorton - Burnage - Southern Cemetery,3
+GTRI172:O:2021-06-17,GTRI,172,Newton Heath - Droylsden - Gorton - Burnage - Southern Cemetery,3
+GTRI217A:I:2021-05-09,GTRI,217,Ashton - Audenshaw - Droylsden - Clayton - Manchester,3
+GTRI217A:O:2021-05-09,GTRI,217,Manchester - Clayton - Droylsden - Audenshaw - Ashton,3
+GTRI247:I:2021-05-09,GTRI,247,Altrincham - Partington - Carrington - Flixton - The Trafford Centre,3
+GTRI247:O:2021-05-09,GTRI,247,The Trafford Centre - Flixton - Carrington - Partington - Altrincham,3
+GTRI284:O:2021-05-09,GTRI,284,Altrincham - Hale Barns Circular,3
+GTRI471:I:2021-05-24,GTRI,471,Rochdale - Heywood - Bury - Breightmet - Bolton,3
+GTRI471:I:2021-06-07,GTRI,471,Rochdale - Heywood - Bury - Breightmet - Bolton,3
+GTRI471:I:2021-06-17,GTRI,471,Rochdale - Heywood - Bury - Breightmet - Bolton,3
+GTRI471:O:2021-05-24,GTRI,471,Bolton - Breightmet - Bury - Heywood - Rochdale,3
+GTRI471:O:2021-06-07,GTRI,471,Bolton - Breightmet - Bury - Heywood - Rochdale,3
+GTRI471:O:2021-06-17,GTRI,471,Bolton - Breightmet - Bury - Heywood - Rochdale,3
+GTRI472:O:2021-05-24,GTRI,472,Bury - Walmersley - Holcombe Brook - Ramsbottom Circular,3
+GTRI472:O:2021-06-07,GTRI,472,Bury - Walmersley - Holcombe Brook - Ramsbottom Circular,3
+GTRI472:O:2021-06-17,GTRI,472,Bury - Walmersley - Holcombe Brook - Ramsbottom Circular,3
+GTRI474:O:2021-05-24,GTRI,474,Bury - Holcombe Brook - Walmersley - Ramsbottom Circular,3
+GTRI474:O:2021-06-07,GTRI,474,Bury - Holcombe Brook - Walmersley - Ramsbottom Circular,3
+GTRI474:O:2021-06-17,GTRI,474,Bury - Holcombe Brook - Walmersley - Ramsbottom Circular,3
+GTRI501:I:2021-05-24,GTRI,501,Farnworth - Royal Bolton Hospital - Bolton - Brownlow Fold - Johnson Fold,3
+GTRI501:I:2021-06-07,GTRI,501,Farnworth - Royal Bolton Hospital - Bolton - Brownlow Fold - Johnson Fold,3
+GTRI501:I:2021-06-17,GTRI,501,Farnworth - Royal Bolton Hospital - Bolton - Brownlow Fold - Johnson Fold,3
+GTRI501:O:2021-05-24,GTRI,501,Johnson Fold - Brownlow Fold - Bolton - Royal Bolton Hospital - Farnworth,3
+GTRI501:O:2021-06-07,GTRI,501,Johnson Fold - Brownlow Fold - Bolton - Royal Bolton Hospital - Farnworth,3
+GTRI501:O:2021-06-17,GTRI,501,Johnson Fold - Brownlow Fold - Bolton - Royal Bolton Hospital - Farnworth,3
+GTRI507:O:2021-05-24,GTRI,507,Bolton - Bradshaw Brow - Harwood Circular,3
+GTRI507:O:2021-06-07,GTRI,507,Bolton - Bradshaw Brow - Harwood Circular,3
+GTRI507:O:2021-06-17,GTRI,507,Bolton - Bradshaw Brow - Harwood Circular,3
+GTRI511:I:2021-05-24,GTRI,511,Bury - Walshaw - Withins - Breightmet - Leverhulme Park - Bolton,3
+GTRI511:I:2021-06-07,GTRI,511,Bury - Walshaw - Withins - Breightmet - Leverhulme Park - Bolton,3
+GTRI511:I:2021-06-17,GTRI,511,Bury - Walshaw - Withins - Breightmet - Leverhulme Park - Bolton,3
+GTRI511:O:2021-05-24,GTRI,511,Bolton - Leverhulme Park - Breightmet - Withins - Walshaw - Bury,3
+GTRI511:O:2021-06-07,GTRI,511,Bolton - Leverhulme Park - Breightmet - Withins - Walshaw - Bury,3
+GTRI511:O:2021-06-17,GTRI,511,Bolton - Leverhulme Park - Breightmet - Withins - Walshaw - Bury,3
+GTRI516:I:2021-05-24,GTRI,516,Leigh - Atherton - Westhoughton - Horwich,3
+GTRI516:I:2021-06-07,GTRI,516,Leigh - Atherton - Westhoughton - Horwich,3
+GTRI516:I:2021-06-17,GTRI,516,Leigh - Atherton - Westhoughton - Horwich,3
+GTRI516:O:2021-05-24,GTRI,516,Horwich - Westhoughton - Atherton - Leigh,3
+GTRI516:O:2021-06-07,GTRI,516,Horwich - Westhoughton - Atherton - Leigh,3
+GTRI516:O:2021-06-17,GTRI,516,Horwich - Westhoughton - Atherton - Leigh,3
+GTRI520:O:2021-05-24,GTRI,520,Bolton - Deane Rd - Ladybridge - Westhoughton,3
+GTRI520:O:2021-06-07,GTRI,520,Bolton - Deane Rd - Ladybridge - Westhoughton,3
+GTRI520:O:2021-06-17,GTRI,520,Bolton - Deane Rd - Ladybridge - Westhoughton,3
+GTRI524:I:2021-05-24,GTRI,524,Bury - Radcliffe - Little Lever - Bolton,3
+GTRI524:I:2021-06-07,GTRI,524,Bury - Radcliffe - Little Lever - Bolton,3
+GTRI524:I:2021-06-17,GTRI,524,Bury - Radcliffe - Little Lever - Bolton,3
+GTRI524:O:2021-05-24,GTRI,524,Bolton - Little Lever - Radcliffe - Bury,3
+GTRI524:O:2021-06-07,GTRI,524,Bolton - Little Lever - Radcliffe - Bury,3
+GTRI524:O:2021-06-17,GTRI,524,Bolton - Little Lever - Radcliffe - Bury,3
+GTRI533:I:2021-05-24,GTRI,533,Egerton - Bromley Cross - Bradshaw Brow - Bolton,3
+GTRI533:I:2021-06-07,GTRI,533,Egerton - Bromley Cross - Bradshaw Brow - Bolton,3
+GTRI533:I:2021-06-17,GTRI,533,Egerton - Bromley Cross - Bradshaw Brow - Bolton,3
+GTRI533:O:2021-05-24,GTRI,533,Bolton - Bradshaw Brow - Bromley Cross - Egerton,3
+GTRI533:O:2021-06-07,GTRI,533,Bolton - Bradshaw Brow - Bromley Cross - Egerton,3
+GTRI533:O:2021-06-17,GTRI,533,Bolton - Bradshaw Brow - Bromley Cross - Egerton,3
+GTRI561:O:2021-05-24,GTRI,561,Bolton - Withins,3
+GTRI561:O:2021-06-07,GTRI,561,Bolton - Withins,3
+GTRI561:O:2021-06-17,GTRI,561,Bolton - Withins,3
+GTRI562:O:2021-05-24,GTRI,562,Bolton - Withins,3
+GTRI562:O:2021-06-07,GTRI,562,Bolton - Withins,3
+GTRI562:O:2021-06-17,GTRI,562,Bolton - Withins,3
+GTRI571:O:2021-05-24,GTRI,571,Bolton - Great Lever Circular,3
+GTRI571:O:2021-06-07,GTRI,571,Bolton - Great Lever Circular,3
+GTRI571:O:2021-06-17,GTRI,571,Bolton - Great Lever Circular,3
+GTRI572:O:2021-05-24,GTRI,572,Bolton - Great Lever Circular,3
+GTRI572:O:2021-06-07,GTRI,572,Bolton - Great Lever Circular,3
+GTRI572:O:2021-06-17,GTRI,572,Bolton - Great Lever Circular,3
+GTRI575:I:2021-05-24,GTRI,575,Wigan - Aspull - Blackrod - Old Lords Estate - Horwich - Chorley New Rd - Bolton,3
+GTRI575:I:2021-06-07,GTRI,575,Wigan - Aspull - Blackrod - Old Lords Estate - Horwich - Chorley New Rd - Bolton,3
+GTRI575:I:2021-06-17,GTRI,575,Wigan - Aspull - Blackrod - Old Lords Estate - Horwich - Chorley New Rd - Bolton,3
+GTRI575:O:2021-05-24,GTRI,575,Bolton - Chorley New Rd - Horwich - Old Lords Estate - Blackrod - Aspull - Wigan,3
+GTRI575:O:2021-06-07,GTRI,575,Bolton - Chorley New Rd - Horwich - Old Lords Estate - Blackrod - Aspull - Wigan,3
+GTRI575:O:2021-06-17,GTRI,575,Bolton - Chorley New Rd - Horwich - Old Lords Estate - Blackrod - Aspull - Wigan,3
+GTRI582:I:2021-05-24,GTRI,582,Leigh - Atherton - Bolton,3
+GTRI582:I:2021-06-07,GTRI,582,Leigh - Atherton - Bolton,3
+GTRI582:I:2021-06-17,GTRI,582,Leigh - Atherton - Bolton,3
+GTRI582:O:2021-05-24,GTRI,582,Bolton - Atherton - Leigh,3
+GTRI582:O:2021-06-07,GTRI,582,Bolton - Atherton - Leigh,3
+GTRI582:O:2021-06-17,GTRI,582,Bolton - Atherton - Leigh,3
+GTRI583:I:2021-05-09,GTRI,583,Tyldesley - Shakerley - Hag Fold - Leigh,3
+GTRI583:O:2021-05-09,GTRI,583,Leigh - Hag Fold - Shakerley - Tyldesley,3
+GTRI584:O:2021-05-09,GTRI,584,Leigh - Crankwood,3
+GTRI597A:I:2021-05-09,GTRI,597,Leigh Sports Village - Leigh - Leigh Infirmary,3
+GTRI597A:O:2021-05-09,GTRI,597,Leigh Infirmary - Leigh - Leigh Sports Village,3
+GTRI607:O:2021-05-09,GTRI,607,Ashton In Makerfield - Landgate - Ashton In Makerfield - Alderton Dr - Ashton In Makerfield,3
+GTRI608:O:2021-05-09,GTRI,608,Ashton In Makerfield - Bryn - Ashton In Makerfield - Ashton Heath - Ashton In Makerfield,3
+GTRI635:I:2021-05-24,GTRI,635,Appley Bridge - Shevington - Wigan - Wigan Royal Albert Edward Infirmary,3
+GTRI635:I:2021-06-07,GTRI,635,Appley Bridge - Shevington - Wigan - Wigan Royal Albert Edward Infirmary,3
+GTRI635:I:2021-06-17,GTRI,635,Appley Bridge - Shevington - Wigan - Wigan Royal Albert Edward Infirmary,3
+GTRI635:O:2021-05-24,GTRI,635,Wigan Royal Albert Edward Infirmary - Wigan - Shevington - Appley Bridge,3
+GTRI635:O:2021-06-07,GTRI,635,Wigan Royal Albert Edward Infirmary - Wigan - Shevington - Appley Bridge,3
+GTRI635:O:2021-06-17,GTRI,635,Wigan Royal Albert Edward Infirmary - Wigan - Shevington - Appley Bridge,3
+GTRI773B:O:2021-03-08,GTRI,773,Hale - Oldfield Brow - Altrincham College of Arts,3
+GTRI795:I:2021-03-08,GTRI,795,Wellacre Academy - Eccles - Cadishead,3
+GTRI795:O:2021-03-08,GTRI,795,Cadishead - Eccles - Wellacre Academy,3
+GTRIVH2:I:2021-05-09,GTRI,VH2,Walkden Circular - Burgess Farm,3
+GTRIVH2:O:2021-05-09,GTRI,VH2,Burgess Farm - Walkden Circular,3
+GTRIX22A:I:2021-05-09,GTRI,X22,The Trafford Centre - Bolton,3
+GTRIX22A:O:2021-05-09,GTRI,X22,Bolton - The Trafford Centre,3
+GTRIX39:I:2021-05-24,GTRI,X39,Farnworth - New Bury - Little Hulton - Walkden - Swinton - Manchester,3
+GTRIX39:I:2021-06-07,GTRI,X39,Farnworth - New Bury - Little Hulton - Walkden - Swinton - Manchester,3
+GTRIX39:I:2021-06-17,GTRI,X39,Farnworth - New Bury - Little Hulton - Walkden - Swinton - Manchester,3
+HATT156:O:2020-10-26,HATT,156,Garswood - Haydock - St Helens - Lea Green circular,3
+HATT613:I:2020-10-26,HATT,613,New Springs - Wigan,3
+HATT613:O:2020-10-26,HATT,613,Wigan - New Springs,3
+HATT630:I:2020-10-26,HATT,630,Platt Bridge - Ince - Wigan,3
+HATT630:O:2020-10-26,HATT,630,Wigan - Ince - Platt Bridge,3
+HATT659C:I:2021-03-08,HATT,659,Dover Lock - Byrchall/St Edmund Arrowsmith Schools,3
+HATT659C:O:2021-03-08,HATT,659,Byrchall/St Edmund Arrowsmith Schools - Dover Lock,3
+HATT933:I:2021-03-08,HATT,933,Leigh - St Mary's RC High School,3
+HATT933:O:2021-03-08,HATT,933,St Mary's RC High School - Leigh,3
+HATT960:O:2021-03-08,HATT,960,Winstanley/St John Rigby Colleges - Swinley,3
+HATT988:I:2021-03-08,HATT,988,Leigh/Lowton - Hope Acadmey,3
+HATT988:O:2021-03-08,HATT,988,Hope Acadmey - Leigh/Lowton,3
+HILT281A:I:2021-03-08,HILT,281,Culcheth High School - Crow Lane,3
+HILT281A:O:2021-03-08,HILT,281,Crow Lane - Culcheth High School,3
+HIPK199A:I:2021-03-08,HIPK,199,Manchester Airport - Stockport - Disley - Whaley Bridge - Chapel-en-le-Frith - Buxton,3
+HIPK199A:O:2021-03-08,HIPK,199,Buxton - Chapel-en-le-Frith - Whaley Bridge - Disley - Stockport - Manchester Airport,3
+HIPK394:I:2021-03-08,HIPK,394,Stepping Hill Hospital - Marple - Gamesley - Glossop,3
+HIPK394:O:2021-03-08,HIPK,394,Glossop - Gamesley - Marple - Stepping Hill Hospital,3
+HULSX57:I:2021-05-16,HULS,X57,Manchester - Sheffield,3
+HULSX57:O:2021-05-16,HULS,X57,Sheffield - Manchester,3
+HUYT156A:I:2019-01-01,HUYT,156,Makerfield - in - Ashton - St Helens,3
+HUYT156A:O:2019-01-01,HUYT,156,St Helens - Ashton - in - Makerfield,3
+HUYT602:I:2019-01-01,HUYT,602,Makerfield - in - Ashton - Newton Hospital,3
+HUYT602:O:2019-01-01,HUYT,602,Newton Hospital - Ashton - in - Makerfield,3
+LNNE352A:O:2021-03-08,LNNE,352A,Orrell Water Park - Hall Street,3
+LNNE654B:O:2021-03-08,LNNE,654,Newton Hospital - Byrchall High School,3
+LNNE655:I:2021-03-08,LNNE,655,Byrchall High School - Corporation Street,3
+LNNE655:O:2021-03-08,LNNE,655,Corporation Street - Byrchall High School,3
+LNUD001B:I:2021-04-16,LNUD,1,Bolton - Astley Bridge - Darwen - Blackburn,3
+LNUD001B:O:2021-04-16,LNUD,1,Blackburn - Darwen - Astley Bridge - Bolton,3
+LNUDX41:I:2021-04-16,LNUD,X41,Manchester - Prestwich - Ramsbottom - Helmshore - Haslingden - Accrington,3
+LNUDX41:O:2021-04-16,LNUD,X41,Accrington - Haslingden - Helmshore - Ramsbottom - Prestwich - Manchester,3
+MAGH742A:O:2021-03-08,MAGH,742,Platt Bridge - Carmel College,3
+METLBLUE:I:2021-04-19,METL,Blue Line,Ashton Under Lyne - Manchester - Eccles,0
+METLBLUE:O:2021-04-19,METL,Blue Line,Eccles - Manchester - Ashton Under Lyne,0
+METLNAVY:I:2021-04-19,METL,Navy Line,Manchester Airport - Wythenshawe - Victoria,0
+METLNAVY:O:2021-04-19,METL,Navy Line,Victoria - Wythenshawe - Manchester Airport,0
+METLPINK:I:2021-04-19,METL,Pink Line,East Didisbury - Manchester - Shaw and Crompton - Rochdale,0
+METLPINK:O:2021-04-19,METL,Pink Line,Rochdale - Shaw and Crompton - Manchester - East Didisbury,0
+METLPURP:I:2021-04-19,METL,Purple Line,Altrincham - Piccadilly,0
+METLPURP:O:2021-04-19,METL,Purple Line,Piccadilly - Altrincham,0
+METLRED:I:2021-04-19,METL,Red Line,The Trafford Centre - Cornbrook,0
+METLRED:O:2021-04-19,METL,Red Line,Cornbrook - The Trafford Centre,0
+METLYELL:I:2021-04-19,METL,Yellow Line,Bury - Piccadilly,0
+METLYELL:O:2021-04-19,METL,Yellow Line,Piccadilly - Bury,0
+OLYM554A:O:2021-04-19,OLYM,554,St Mary’s RC High School - Astley - Boothstown - Mosley Common - Tyldesley - Shakerley,3
+OLYM591A:I:2021-04-19,OLYM,591,Firs Lane - Plank Lane - Lowton C of E High School,3
+OLYM908:O:2021-04-19,OLYM,908,Ladybridge High School - Markland Hill - Heaton,3
+OLYM912B:I:2021-04-19,OLYM,912,Moses Gate - Great Lever - Morris Green - Ladybridge High School,3
+OLYM921C:I:2021-04-19,OLYM,921,Bromley Cross - Egerton - Thornleigh Salesian College,3
+OLYM926:O:2021-04-19,OLYM,926,Turton High School & Media Arts College - Harwood,3
+OLYM932B:I:2021-04-19,OLYM,932,Leigh - Westleigh High School,3
+OLYM948:O:2021-04-19,OLYM,948,St John Fisher Catholic High School - Beech Hill - Swinley,3
+OLYM960:I:2021-04-19,OLYM,960,Swinley - Boar’s Head - Standish - Shevington - St John Rigby College/Winstanley College,3
+OLYM969:O:2021-04-19,OLYM,969,Canon Slade School - Markland Hill - Bolton,3
+OLYM976C:O:2021-04-19,OLYM,976,Mount St Joseph RC High School - Little Lever - Bradley Fold,3
+OLYM990:I:2021-04-19,OLYM,990,Hag Fold - Atherton - Westleigh High School,3
+OLYM990:O:2021-04-19,OLYM,990,Westleigh High School - Atherton - Hag Fold,3
+PBLT312A:I:2021-01-02,PBLT,312,Wrightington - Skelmersdale,3
+PBLT312A:O:2021-01-02,PBLT,312,Skelmersdale - Wrightington,3
+RDCA356A:I:2021-04-26,RDCA,356,Oldham - Denshaw - Greenfield - Mossley - Ashton,3
+RDCA356A:O:2021-04-26,RDCA,356,Ashton - Mossley - Greenfield - Denshaw - Oldham,3
+RDCA402:O:2021-04-26,RDCA,402,Oldham - Royal Oldham Hospital - Royton Circular,3
+ROST0R8:I:2021-05-02,ROST,R8,Rochdale - Bamford - Norden,3
+ROST0R8:O:2021-05-02,ROST,R8,Norden - Bamford - Rochdale,3
+ROST126F:I:2021-05-02,ROST,126,Blue Coat School - Haughton Green,3
+ROST126F:O:2021-05-02,ROST,126,Haughton Green - Blue Coat School,3
+ROST184:I:2021-05-02,ROST,184,Uppermill - Lees - Oldham,3
+ROST273:I:2021-05-02,ROST,273,Bolton - Ramsbottom - Edenfield - Rawtenstall,3
+ROST273:O:2021-05-02,ROST,273,Rawtenstall - Edenfield - Ramsbottom - Bolton,3
+ROST344:I:2021-05-02,ROST,344,All Saints - Stalybridge - Micklehurst,3
+ROST408:O:2021-05-02,ROST,408,Oldham - Royton - Crompton House School,3
+ROST456:I:2021-05-02,ROST,456,Littleborough - Wardle - Rochdale,3
+ROST456:O:2021-05-02,ROST,456,Rochdale - Wardle - Littleborough,3
+ROST457:I:2021-05-02,ROST,457,Littleborough - Rochdale,3
+ROST457:O:2021-05-02,ROST,457,Rochdale - Littleborough,3
+ROST464:I:2021-05-02,ROST,464,Rochdale - Bacup - Rawtenstall - Accrington,3
+ROST464:O:2021-05-02,ROST,464,Accrington - Rawtenstall - Bacup - Rochdale,3
+ROST467A:I:2021-05-02,ROST,467,Rochdale - Daniel Fold - Bury,3
+ROST467A:O:2021-05-02,ROST,467,Bury - Daniel Fold - Rochdale,3
+ROST468B:I:2021-05-02,ROST,468,Rochdale - Cutgate - Bury,3
+ROST468B:O:2021-05-02,ROST,468,Bury - Cutgate - Rochdale,3
+ROST469:I:2021-05-02,ROST,469,Bury - Tottington,3
+ROST469:O:2021-05-02,ROST,469,Tottington - Bury,3
+ROST480B:I:2021-05-02,ROST,480,Bury - Walshaw - Tottington - Bolton,3
+ROST480B:O:2021-05-02,ROST,480,Bolton - Tottington - Walshaw - Bury,3
+ROST481:I:2021-05-02,ROST,481,Bury - Rawtenstall - Haslingden - Blackburn,3
+ROST481:O:2021-05-02,ROST,481,Blackburn - Haslingden - Rawtenstall - Bury,3
+ROST483:I:2021-05-02,ROST,483,Bury - Rawtenstall - Water - Burnley,3
+ROST483:O:2021-05-02,ROST,483,Burnley - Water - Rawtenstall - Bury,3
+ROST558:O:2021-05-02,ROST,558,Diggle - Uppermill - Greenfield - Mossley - Lees - Blue Coat School,3
+ROST700:O:2021-05-02,ROST,700,Dane Bank - Denton - Fairfield High School,3
+ROST709C:I:2021-05-02,ROST,709,St Matthews High School - Newton Heath - Ancoats,3
+ROST709C:O:2021-05-02,ROST,709,Ancoats - Newton Heath - St Matthews High School,3
+ROST726:I:2021-05-02,ROST,726,East Manchester Academy - Newton Heath - New Moston,3
+ROST771:O:2021-05-02,ROST,771,Clayton - Ashton - St Damian's RC Science College,3
+ROST774:I:2021-05-02,ROST,774,Great Academy Ashton - Oldham,3
+ROST774:O:2021-05-02,ROST,774,Oldham - Great Academy Ashton,3
+ROST775B:O:2021-05-02,ROST,775,Lees Road - St Damians,3
+ROST781:I:2021-05-02,ROST,781,Cardinal Langley RC High School - Langley - Heywood,3
+ROST781:O:2021-05-02,ROST,781,Heywood - Langley - Cardinal Langley RC High School,3
+ROST786:I:2021-05-02,ROST,786,St Anne's Academy - Langley - Alkrington,3
+ROST794A:I:2021-05-02,ROST,794,High Crompton - Moston - Alkrington,3
+ROST794A:O:2021-05-02,ROST,794,Alkrington - Moston - High Crompton,3
+ROST795C:I:2021-05-02,ROST,795,Crompton House School - Royton - Middleton,3
+ROST795C:O:2021-05-02,ROST,795,Middleton - Royton - Crompton House School,3
+ROST803B:I:2021-05-02,ROST,803,Mossley Hollins High School - Oldham,3
+ROST805A:I:2021-05-02,ROST,805,Blue Coat School - Rochdale - Norden,3
+ROST805A:O:2021-05-02,ROST,805,Norden - Rochdale - Blue Coat School,3
+ROST818A:I:2021-05-02,ROST,818,Matthew Moss School - Rochdale,3
+ROST821:O:2021-05-02,ROST,821,Coppice - Blessed John Henry Newman Catholic College,3
+ROST823:I:2021-05-02,ROST,823,Blue Coat School - Sholver - Denshaw - Diggle,3
+ROST825C:I:2021-05-02,ROST,825,Uppermill - Delph - Waterhead,3
+ROST825C:O:2021-05-02,ROST,825,Waterhead - Delph - Uppermill,3
+ROST829B:I:2021-05-02,ROST,829,Uppermill Turning Circle - Oasis Academy Leesbrook - Frederick Street/Werneth Park,3
+ROST829B:O:2021-05-02,ROST,829,Frederick Street/Werneth Park - Oasis Academy Leesbrook - Uppermill Turning Circle,3
+ROST830A:I:2021-05-02,ROST,830,Royton & Crompton School - Royton - High Crompton,3
+ROST831A:I:2021-05-02,ROST,831,North Chadderton School - Royton - Thornham,3
+ROST831A:O:2021-05-02,ROST,831,Thornham - Royton - North Chadderton School,3
+ROST833A:I:2021-05-02,ROST,833,Newman College - Failsworth - Newton Heath,3
+ROST833A:O:2021-05-02,ROST,833,Newton Heath - Failsworth - Newman College,3
+ROST836A:I:2021-05-02,ROST,836,Blessed John Henry Newman Catholic College - Waterhead - Derker,3
+ROST836A:O:2021-05-02,ROST,836,Derker - Waterhead - Blessed John Henry Newman Catholic College,3
+ROST837B:I:2021-05-02,ROST,837,North Chadderton School - Royton - Shaw,3
+ROST837B:O:2021-05-02,ROST,837,Shaw - Royton - North Chadderton School,3
+ROST839B:I:2021-05-02,ROST,839,Waterhead - Moorside - Sholver,3
+ROST841:O:2021-05-02,ROST,841,Rochdale - Norden - Haslingden High School,3
+ROST842C:I:2021-05-02,ROST,842,Longdendale High School - Hollingworth - Broadbottom,3
+ROST842C:O:2021-05-02,ROST,842,Broadbottom - Hollingworth - Longdendale High School,3
+ROST844A:I:2021-05-02,ROST,844,Rochdale - Bacup - Haslingden High,3
+ROST844A:O:2021-05-02,ROST,844,Haslingden High - Bacup - Rochdale,3
+ROST849:O:2021-05-02,ROST,849,Higher Blackley - White Moss - Moston - Oasis Academy,3
+ROST850B:I:2021-05-02,ROST,850,Hollingworth Academy - Smithy Bridge - Littleborough - Stansfield - Stubley,3
+ROST850B:O:2021-05-02,ROST,850,Stubley - Stansfield - Littleborough - Smithy Bridge - Hollingworth Academy,3
+ROST854A:I:2021-05-02,ROST,854,Hollingworth Academy - Howarth Cross - Wardle - Hamer,3
+ROST854A:O:2021-05-02,ROST,854,Hamer - Wardle - Howarth Cross - Hollingworth Academy,3
+ROST857A:I:2021-05-02,ROST,857,Wardle Academy - Stansfield - Littleborough,3
+ROST857A:O:2021-05-02,ROST,857,Littleborough - Stansfield - Wardle Academy,3
+ROST862B:I:2021-05-02,ROST,862,St Cuthbert's - Rochdale - Syke,3
+ROST862B:O:2021-05-02,ROST,862,Syke - Rochdale - St Cuthbert's,3
+ROST864B:I:2021-05-02,ROST,864,Bacup - Rawtenstall - All Saints School,3
+ROST864B:O:2021-05-02,ROST,864,All Saints School - Rawtenstall - Bacup,3
+ROST865A:I:2021-05-02,ROST,865,Waterhead Academy - Abbey Hills - Glodwick,3
+ROST865A:O:2021-05-02,ROST,865,Glodwick - Abbey Hills - Waterhead Academy,3
+ROST867E:I:2021-05-02,ROST,867,St Cuthberts - Shawclough - Falinge,3
+ROST867E:O:2021-05-02,ROST,867,Falinge - Shawclough - St Cuthberts,3
+ROST870B:I:2021-05-02,ROST,870,Mossley Hollins HS - Stalybridge - Ridge Hill Estate,3
+ROST872C:I:2021-05-02,ROST,872,Falinge Park School - Oulder Hill School - Lane Head - Norden,3
+ROST872C:O:2021-05-02,ROST,872,Norden - Lane Head - Oulder Hill School - Falinge Park School,3
+ROST879A:O:2021-05-02,ROST,879,Sholver - Derker - Royton and Crompton School,3
+ROST880C:I:2021-05-02,ROST,880,St Cuthbert's School - Castleton - Sudden - Norden,3
+ROST881C:I:2021-05-02,ROST,881,Oulder Hill School - Rochdale - Sudden - Castleton,3
+ROST881C:O:2021-05-02,ROST,881,Castleton - Sudden - Rochdale - Oulder Hill School,3
+ROST882D:O:2021-05-02,ROST,882,Shaw - Royton - Newman College,3
+ROST884:O:2021-05-02,ROST,884,Littleborough - Low Hill - Turf Hill,3
+ROST893C:I:2021-05-02,ROST,893,Blue Coat School - Chadderton - Moston - Alkrington,3
+ROST893C:O:2021-05-02,ROST,893,Alkrington - Moston - Chadderton - Blue Coat School,3
+ROST903:I:2021-05-02,ROST,903,Tottington High School - Greenmount - Hawkshaw - Harwood,3
+ROST903:O:2021-05-02,ROST,903,Harwood - Hawkshaw - Greenmount - Tottington High School,3
+ROST935A:O:2021-05-02,ROST,935,Crompton House School - Shaw - Buckstones - Milnrow,3
+ROST967B:I:2021-05-02,ROST,967,Rochdale - Daniel Fold - Bamford - Bury Church School,3
+ROST967B:O:2021-05-02,ROST,967,Bury Church School - Bamford - Daniel Fold - Rochdale,3
+ROST968B:I:2021-05-02,ROST,968,Rochdale - Daniel Fold - Bamford - Bury St Gabriel's School,3
+ROST968B:O:2021-05-02,ROST,968,Bury St Gabriel's School - Bamford - Daniel Fold - Rochdale,3
+ROST969:I:2021-05-02,ROST,969,Bury - Tottington,3
+ROST969:O:2021-05-02,ROST,969,Tottington - Bury,3
+ROSTR13:I:2021-05-02,ROST,R13,Rochdale - Shawclough Way - Wallbank,3
+ROSTR13:O:2021-05-02,ROST,R13,Wallbank - Shawclough Way - Rochdale,3
+RSTY094:I:2021-04-11,RSTY,94,North Manchester General Hospital - Cheetham Hill - Prestwich - Bury,3
+RSTY094:O:2021-04-11,RSTY,94,Bury - Prestwich - Cheetham Hill - North Manchester General Hospital,3
+RSTY487:O:2021-04-19,RSTY,487,Derby High School - Nangreaves,3
+RSTY494:I:2021-04-11,RSTY,494,Ferngrove - Bury,3
+RSTY494:O:2021-04-11,RSTY,494,Bury - Ferngrove,3
+RSTY535:I:2021-04-11,RSTY,535,Bolton - Astley Bridge - Bemont,3
+RSTY535:O:2021-04-11,RSTY,535,Bemont - Astley Bridge - Bolton,3
+RSTY584:O:2021-04-11,RSTY,584,Crankwood - Leigh,3
+RSTY594:O:2021-04-11,RSTY,594,Leigh - Astley - New Hall Farm - Tyldesley circular,3
+RSTY617A:I:2021-04-19,RSTY,617,Aspull - St Joseph's RC High School/Rivington & Blackrod High School,3
+RSTY617A:O:2021-04-19,RSTY,617,St Joseph's RC High School/Rivington & Blackrod High School - Aspull,3
+RSTY620:I:2021-04-19,RSTY,620,Swinley - Winstanley/St John Rigby Colleges,3
+RSTY620:O:2021-04-19,RSTY,620,Winstanley/St John Rigby Colleges - Swinley,3
+RSTY712A:I:2021-04-19,RSTY,712,Kearsley - Bury C of E High School,3
+RSTY713:I:2021-04-19,RSTY,713,Farnworth - Unsworth Academy,3
+RSTY713:O:2021-04-19,RSTY,713,Unsworth Academy - Farnworth,3
+RSTY799B:I:2021-04-19,RSTY,799,Ainsworth - Bradley Fold - Radcliffe - The Derby High School,3
+RSTY810B:I:2021-04-19,RSTY,810,Radcliffe - Elton High School,3
+RSTY874H:O:2021-04-19,RSTY,874,St Gabriels RC High School - Ramsbottom,3
+RSTY885:I:2021-04-19,RSTY,885,Radcliffe - Tottngton High School,3
+RSTY890A:I:2021-04-19,RSTY,890,St Gabriels RC High School/Woodhey High School - Harwood,3
+RSTY890A:O:2021-04-19,RSTY,890,Harwood - St Gabriels RC High School/Woodhey High School,3
+RSTY896G:I:2021-04-19,RSTY,896,Radcliffe - Elton High School,3
+RSTY896G:O:2021-04-19,RSTY,896,Elton High School - Radcliffe,3
+RSTY902:O:2021-04-19,RSTY,902,Ramsbottom - Tottington High School,3
+RSTY904:I:2021-04-19,RSTY,904,Ellenbrook - op Academy Walkden - Co,3
+RSTY904:O:2021-04-19,RSTY,904,Co - op Academy Walkden - Ellenbrook,3
+RSTY905D:I:2021-04-19,RSTY,905,Westhoughton - Canon Slade School,3
+RSTY905D:O:2021-04-19,RSTY,905,Canon Slade School - Westhoughton,3
+RSTY909:I:2021-04-19,RSTY,909,Cadishead - St Patrick's High School,3
+RSTY909:O:2021-04-19,RSTY,909,St Patrick's High School - Cadishead,3
+RSTY910C:I:2021-04-19,RSTY,910,Irlam - St Patrick's High School,3
+RSTY910C:O:2021-04-19,RSTY,910,St Patrick's High School - Irlam,3
+RSTY911:I:2021-04-19,RSTY,911,Bolton - Bolton St Catherine's Academy,3
+RSTY913B:I:2021-04-19,RSTY,913,Astley Bridge - Turton High School,3
+RSTY913B:O:2021-04-19,RSTY,913,Turton High School - Astley Bridge,3
+RSTY916A:O:2021-04-19,RSTY,916,Thornleigh College/Canon Slade School - Blackrod,3
+RSTY920:O:2021-04-19,RSTY,920,Byrchall/St Edmund Arrowsmith High Schools - Hindley Green,3
+RSTY920B:I:2021-04-19,RSTY,920,Great Lever - Thornleigh College,3
+RSTY920B:O:2021-04-19,RSTY,920,Thornleigh College - Great Lever,3
+RSTY923A:O:2021-04-19,RSTY,923,Thornleigh College - Little Lever,3
+RSTY924:I:2021-04-19,RSTY,924,Daubhill - Westhoughton High School,3
+RSTY926:I:2021-04-19,RSTY,926,Harwood - Turton High School,3
+RSTY929:I:2021-04-19,RSTY,929,Bolton - Sharples High School,3
+RSTY931A:I:2021-04-19,RSTY,931,Hindley Green - St Mary's Catholic High School,3
+RSTY931A:O:2021-04-19,RSTY,931,St Mary's Catholic High School - Hindley Green,3
+RSTY933:I:2021-04-19,RSTY,933,Lowton - St Mary's Catholic High School,3
+RSTY933:O:2021-04-19,RSTY,933,St Mary's Catholic High School - Lowton,3
+RSTY934D:I:2021-04-19,RSTY,934,St Marys Catholic High School - Leigh,3
+RSTY934D:O:2021-04-19,RSTY,934,Leigh - St Marys Catholic High School,3
+RSTY935:I:2021-04-19,RSTY,935,Hag Fold - Bedford High School,3
+RSTY935:O:2021-04-19,RSTY,935,Bedford High School - Hag Fold,3
+RSTY936:I:2021-04-19,RSTY,936,Little Lever - Thornleigh College/Smithills High School,3
+RSTY943B:I:2021-04-19,RSTY,943,Darcy Lever - Little Lever High School,3
+RSTY950B:I:2021-04-19,RSTY,950,Hindley - Standish Community High School,3
+RSTY950B:O:2021-04-19,RSTY,950,Standish Community High School - Hindley,3
+RSTY952C:I:2021-04-19,RSTY,952,Mesnes Park - Standish Community High School,3
+RSTY952C:O:2021-04-19,RSTY,952,Standish Community High School - Mesnes Park,3
+RSTY961A:I:2021-04-19,RSTY,961,Castle Hill - Winstanly/St John Rigby Colleges,3
+RSTY961A:O:2021-04-19,RSTY,961,Winstanly/St John Rigby Colleges - Castle Hill,3
+RSTY964E:I:2021-04-19,RSTY,964,Appley Bridge - Standish Community High School/Shevington/High School,3
+RSTY964E:O:2021-04-19,RSTY,964,Standish Community High School/Shevington/High School - Appley Bridge,3
+RSTY972:O:2021-04-19,RSTY,972,Canon Slade School - Edenfield,3
+RSTY975D:O:2021-04-19,RSTY,975,Canon Slade School - Bury,3
+RSTY978B:I:2021-04-19,RSTY,978,St James' C of E High School - Ringley Bridge,3
+RSTY978B:O:2021-04-19,RSTY,978,Ringley Bridge - St James' C of E High School,3
+RSTY980B:I:2021-04-19,RSTY,980,Hindley - St Mary's Catholic High School,3
+RSTY980B:O:2021-04-19,RSTY,980,St Mary's Catholic High School - Hindley,3
+RSTY988B:I:2021-04-19,RSTY,988,Pendlebury - Canon Slade School,3
+RSTY990C:I:2021-04-19,RSTY,990,Four Gates - St James' C of E School,3
+RSTY993:I:2021-04-19,RSTY,993,Chew Moor - St James' C of E High School,3
+RSTY993:O:2021-04-19,RSTY,993,St James' C of E High School - Chew Moor,3
+RSTY995:O:2021-04-19,RSTY,995,Unsworth Academy/Philips High School - Bradley Fold,3
+SCMN001A:O:2021-05-24,SCMN,1,Wigan - Highfield Grange,3
+SCMN001A:O:2021-06-29,SCMN,1,Wigan - Highfield Grange,3
+SCMN002C:O:2021-05-24,SCMN,2,Wigan - Highfield Grange,3
+SCMN002C:O:2021-06-29,SCMN,2,Wigan - Highfield Grange,3
+SCMN003C:O:2021-05-24,SCMN,3,Wigan - Kitt Green,3
+SCMN003C:O:2021-06-29,SCMN,3,Wigan - Kitt Green,3
+SCMN004A:O:2021-05-24,SCMN,4,Wigan - Kitt Green,3
+SCMN004A:O:2021-06-29,SCMN,4,Wigan - Kitt Green,3
+SCMN005A:O:2021-05-24,SCMN,5,Wigan - Beech Hill,3
+SCMN005A:O:2021-06-29,SCMN,5,Wigan - Beech Hill,3
+SCMN006B:O:2021-05-24,SCMN,6,Wigan - Beech Hill,3
+SCMN006B:O:2021-06-29,SCMN,6,Wigan - Beech Hill,3
+SCMN007:I:2021-05-24,SCMN,7,Stockport - Ashton,3
+SCMN007:I:2021-06-29,SCMN,7,Stockport - Ashton,3
+SCMN007:O:2021-05-24,SCMN,7,Ashton - Stockport,3
+SCMN007:O:2021-06-29,SCMN,7,Ashton - Stockport,3
+SCMN007W:I:2021-05-24,SCMN,7,Bolton - Wigan,3
+SCMN007W:I:2021-06-29,SCMN,7,Bolton - Wigan,3
+SCMN007W:O:2021-05-24,SCMN,7,Wigan - Bolton,3
+SCMN007W:O:2021-06-29,SCMN,7,Wigan - Bolton,3
+SCMN008:I:2021-05-24,SCMN,8,Leigh - Wigan,3
+SCMN008:I:2021-06-29,SCMN,8,Leigh - Wigan,3
+SCMN008:O:2021-05-24,SCMN,8,Wigan - Leigh,3
+SCMN008:O:2021-06-29,SCMN,8,Wigan - Leigh,3
+SCMN009:I:2021-05-24,SCMN,9,Higher Folds - Wigan,3
+SCMN009:I:2021-06-29,SCMN,9,Higher Folds - Wigan,3
+SCMN009:O:2021-05-24,SCMN,9,Wigan - Higher Folds,3
+SCMN009:O:2021-06-29,SCMN,9,Wigan - Higher Folds,3
+SCMN010:I:2021-05-24,SCMN,10,Leigh - Wigan,3
+SCMN010:I:2021-06-29,SCMN,10,Leigh - Wigan,3
+SCMN010:O:2021-05-24,SCMN,10,Wigan - Leigh,3
+SCMN010:O:2021-06-29,SCMN,10,Wigan - Leigh,3
+SCMN011D:I:2021-05-24,SCMN,11,Altrincham - Stockport,3
+SCMN011D:I:2021-06-29,SCMN,11,Altrincham - Stockport,3
+SCMN011D:O:2021-05-24,SCMN,11,Stockport - Altrincham,3
+SCMN011D:O:2021-06-29,SCMN,11,Stockport - Altrincham,3
+SCMN012C:O:2021-05-24,SCMN,12,Middleton - Moorclose Circular,3
+SCMN012C:O:2021-06-29,SCMN,12,Middleton - Moorclose Circular,3
+SCMN015B:I:2021-05-24,SCMN,15,Flixton - Manchester,3
+SCMN015B:I:2021-06-29,SCMN,15,Flixton - Manchester,3
+SCMN015B:O:2021-05-24,SCMN,15,Manchester - Flixton,3
+SCMN015B:O:2021-06-29,SCMN,15,Manchester - Flixton,3
+SCMN023C:I:2021-05-24,SCMN,23,The Trafford Centre - Stockport,3
+SCMN023C:I:2021-06-29,SCMN,23,The Trafford Centre - Stockport,3
+SCMN023C:O:2021-05-24,SCMN,23,Stockport - The Trafford Centre,3
+SCMN023C:O:2021-06-29,SCMN,23,Stockport - The Trafford Centre,3
+SCMN025:I:2021-05-24,SCMN,25,The Trafford Centre - Stockport,3
+SCMN025:I:2021-06-29,SCMN,25,The Trafford Centre - Stockport,3
+SCMN025:O:2021-05-24,SCMN,25,Stockport - The Trafford Centre,3
+SCMN025:O:2021-06-29,SCMN,25,Stockport - The Trafford Centre,3
+SCMN034:I:2021-05-24,SCMN,34,Leigh - Manchester,3
+SCMN034:I:2021-06-29,SCMN,34,Leigh - Manchester,3
+SCMN034:O:2021-05-24,SCMN,34,Manchester - Leigh,3
+SCMN034:O:2021-06-29,SCMN,34,Manchester - Leigh,3
+SCMN038A:I:2021-05-24,SCMN,38,Logistics North - Manchester,3
+SCMN038A:I:2021-06-29,SCMN,38,Logistics North - Manchester,3
+SCMN038A:O:2021-05-24,SCMN,38,Manchester - Logistics North,3
+SCMN038A:O:2021-06-29,SCMN,38,Manchester - Logistics North,3
+SCMN042:I:2021-05-24,SCMN,42,Stockport - Piccadilly,3
+SCMN042:I:2021-06-29,SCMN,42,Stockport - Piccadilly,3
+SCMN042:O:2021-05-24,SCMN,42,Piccadilly - Stockport,3
+SCMN042:O:2021-06-29,SCMN,42,Piccadilly - Stockport,3
+SCMN043:I:2021-05-24,SCMN,43,Manchester Airport - Manchester,3
+SCMN043:I:2021-06-29,SCMN,43,Manchester Airport - Manchester,3
+SCMN043:O:2021-05-24,SCMN,43,Manchester - Manchester Airport,3
+SCMN043:O:2021-06-29,SCMN,43,Manchester - Manchester Airport,3
+SCMN050:I:2021-05-24,SCMN,50,East Didsbury - Media City,3
+SCMN050:I:2021-06-29,SCMN,50,East Didsbury - Media City,3
+SCMN050:O:2021-05-24,SCMN,50,Media City - East Didsbury,3
+SCMN050:O:2021-06-29,SCMN,50,Media City - East Didsbury,3
+SCMN051A:I:2021-05-24,SCMN,51,East Didsbury - Media City,3
+SCMN051A:I:2021-06-29,SCMN,51,East Didsbury - Media City,3
+SCMN056D:O:2021-05-24,SCMN,56,Manchester - Higher Blackley circular,3
+SCMN056D:O:2021-06-29,SCMN,56,Manchester - Higher Blackley circular,3
+SCMN074C:I:2021-05-24,SCMN,74,Hollinwood - Manchester,3
+SCMN074C:I:2021-06-29,SCMN,74,Hollinwood - Manchester,3
+SCMN074C:O:2021-05-24,SCMN,74,Manchester - Hollinwood,3
+SCMN074C:O:2021-06-29,SCMN,74,Manchester - Hollinwood,3
+SCMN076:I:2021-05-24,SCMN,76,Oldham - Manchester,3
+SCMN076:I:2021-06-29,SCMN,76,Oldham - Manchester,3
+SCMN076:O:2021-05-24,SCMN,76,Manchester - Oldham,3
+SCMN076:O:2021-06-29,SCMN,76,Manchester - Oldham,3
+SCMN07A:I:2021-05-24,SCMN,7A,Stockport - Ashton,3
+SCMN07A:I:2021-06-29,SCMN,7A,Stockport - Ashton,3
+SCMN07A:O:2021-05-24,SCMN,7A,Ashton - Stockport,3
+SCMN07A:O:2021-06-29,SCMN,7A,Ashton - Stockport,3
+SCMN07B:I:2021-05-24,SCMN,7B,Stockport - Ashton,3
+SCMN07B:I:2021-06-29,SCMN,7B,Stockport - Ashton,3
+SCMN07B:O:2021-05-24,SCMN,7B,Ashton - Stockport,3
+SCMN07B:O:2021-06-29,SCMN,7B,Ashton - Stockport,3
+SCMN081:I:2021-05-24,SCMN,81,Derker - Manchester,3
+SCMN081:I:2021-06-29,SCMN,81,Derker - Manchester,3
+SCMN081:O:2021-05-24,SCMN,81,Manchester - Derker,3
+SCMN081:O:2021-06-29,SCMN,81,Manchester - Derker,3
+SCMN085:I:2021-05-24,SCMN,85,Chorlton - Manchester,3
+SCMN085:I:2021-06-29,SCMN,85,Chorlton - Manchester,3
+SCMN085:O:2021-05-24,SCMN,85,Manchester - Chorlton,3
+SCMN085:O:2021-06-29,SCMN,85,Manchester - Chorlton,3
+SCMN086:I:2021-05-24,SCMN,86,Chorlton - Manchester,3
+SCMN086:I:2021-06-29,SCMN,86,Chorlton - Manchester,3
+SCMN086:O:2021-05-24,SCMN,86,Manchester - Chorlton,3
+SCMN086:O:2021-06-29,SCMN,86,Manchester - Chorlton,3
+SCMN101:I:2021-05-24,SCMN,101,Wythenshawe - Manchester,3
+SCMN101:I:2021-06-29,SCMN,101,Wythenshawe - Manchester,3
+SCMN101:O:2021-05-24,SCMN,101,Manchester - Wythenshawe,3
+SCMN101:O:2021-06-29,SCMN,101,Manchester - Wythenshawe,3
+SCMN102:I:2021-05-24,SCMN,102,Southern Cemetery - Manchester,3
+SCMN102:I:2021-06-29,SCMN,102,Southern Cemetery - Manchester,3
+SCMN102:O:2021-05-24,SCMN,102,Manchester - Southern Cemetery,3
+SCMN102:O:2021-06-29,SCMN,102,Manchester - Southern Cemetery,3
+SCMN103:I:2021-05-24,SCMN,103,Manchester Airport - Manchester,3
+SCMN103:I:2021-06-29,SCMN,103,Manchester Airport - Manchester,3
+SCMN103:O:2021-05-24,SCMN,103,Manchester - Manchester Airport,3
+SCMN103:O:2021-06-29,SCMN,103,Manchester - Manchester Airport,3
+SCMN108:I:2021-05-24,SCMN,108,Timperley - Manchester,3
+SCMN108:I:2021-06-29,SCMN,108,Timperley - Manchester,3
+SCMN10A:I:2021-05-24,SCMN,10A,Leigh - Wigan,3
+SCMN10A:I:2021-06-29,SCMN,10A,Leigh - Wigan,3
+SCMN10A:O:2021-05-24,SCMN,10A,Wigan - Leigh,3
+SCMN10A:O:2021-06-29,SCMN,10A,Wigan - Leigh,3
+SCMN111A:I:2021-05-24,SCMN,111,Southern Cemetery - Manchester,3
+SCMN111A:I:2021-06-29,SCMN,111,Southern Cemetery - Manchester,3
+SCMN111A:O:2021-05-24,SCMN,111,Manchester - Southern Cemetery,3
+SCMN111A:O:2021-06-29,SCMN,111,Manchester - Southern Cemetery,3
+SCMN112A:I:2021-05-24,SCMN,112,Middleton - Manchester,3
+SCMN112A:I:2021-06-29,SCMN,112,Middleton - Manchester,3
+SCMN112A:O:2021-05-24,SCMN,112,Manchester - Middleton,3
+SCMN112A:O:2021-06-29,SCMN,112,Manchester - Middleton,3
+SCMN113B:I:2021-05-24,SCMN,113,Middleton - Manchester,3
+SCMN113B:I:2021-06-29,SCMN,113,Middleton - Manchester,3
+SCMN114A:I:2021-05-24,SCMN,114,Alkrington - Manchester,3
+SCMN114A:I:2021-06-29,SCMN,114,Alkrington - Manchester,3
+SCMN114A:O:2021-05-24,SCMN,114,Manchester - Alkrington,3
+SCMN114A:O:2021-06-29,SCMN,114,Manchester - Alkrington,3
+SCMN115C:O:2021-05-24,SCMN,115,Middleton - Moston circular,3
+SCMN115C:O:2021-06-29,SCMN,115,Middleton - Moston circular,3
+SCMN116:O:2021-05-24,SCMN,116,Middleton - Moston circular,3
+SCMN116:O:2021-06-29,SCMN,116,Middleton - Moston circular,3
+SCMN117:I:2021-05-24,SCMN,117,Greengate - Manchester,3
+SCMN117:I:2021-06-29,SCMN,117,Greengate - Manchester,3
+SCMN117:O:2021-05-24,SCMN,117,Manchester - Greengate,3
+SCMN117:O:2021-06-29,SCMN,117,Manchester - Greengate,3
+SCMN118:I:2021-05-24,SCMN,118,North Manchester General Hospital - Manchester,3
+SCMN118:I:2021-06-29,SCMN,118,North Manchester General Hospital - Manchester,3
+SCMN118:O:2021-05-24,SCMN,118,Manchester - North Manchester General Hospital,3
+SCMN118:O:2021-06-29,SCMN,118,Manchester - North Manchester General Hospital,3
+SCMN119:I:2021-05-24,SCMN,119,Higher Blackley - Manchester,3
+SCMN119:I:2021-06-29,SCMN,119,Higher Blackley - Manchester,3
+SCMN119:O:2021-05-24,SCMN,119,Manchester - Higher Blackley,3
+SCMN119:O:2021-06-29,SCMN,119,Manchester - Higher Blackley,3
+SCMN11A:I:2021-05-24,SCMN,11A,Altrincham - Stockport,3
+SCMN11A:I:2021-06-29,SCMN,11A,Altrincham - Stockport,3
+SCMN11A:O:2021-05-24,SCMN,11A,Stockport - Altrincham,3
+SCMN11A:O:2021-06-29,SCMN,11A,Stockport - Altrincham,3
+SCMN12A:O:2021-05-24,SCMN,12A,Middleton - Moorclose Circular,3
+SCMN12A:O:2021-06-29,SCMN,12A,Middleton - Moorclose Circular,3
+SCMN142:I:2021-05-24,SCMN,142,East Didsbury - Manchester,3
+SCMN142:I:2021-06-29,SCMN,142,East Didsbury - Manchester,3
+SCMN142:O:2021-05-24,SCMN,142,Manchester - East Didsbury,3
+SCMN142:O:2021-06-29,SCMN,142,Manchester - East Didsbury,3
+SCMN143:I:2021-05-24,SCMN,143,West Didsbury - Manchester,3
+SCMN143:I:2021-06-29,SCMN,143,West Didsbury - Manchester,3
+SCMN143:O:2021-05-24,SCMN,143,Manchester - West Didsbury,3
+SCMN143:O:2021-06-29,SCMN,143,Manchester - West Didsbury,3
+SCMN147B:I:2021-05-24,SCMN,147,West Didsbury - Piccadilly Rail Station,3
+SCMN147B:I:2021-06-29,SCMN,147,West Didsbury - Piccadilly Rail Station,3
+SCMN147B:O:2021-05-24,SCMN,147,Piccadilly Rail Station - West Didsbury,3
+SCMN147B:O:2021-06-29,SCMN,147,Piccadilly Rail Station - West Didsbury,3
+SCMN149A:O:2021-05-24,SCMN,149,NMGH - Oldham circular,3
+SCMN149A:O:2021-06-29,SCMN,149,NMGH - Oldham circular,3
+SCMN150B:I:2021-05-24,SCMN,150,Gorton - The Trafford Centre,3
+SCMN150B:I:2021-06-29,SCMN,150,Gorton - The Trafford Centre,3
+SCMN150B:O:2021-05-24,SCMN,150,The Trafford Centre - Gorton,3
+SCMN150B:O:2021-06-29,SCMN,150,The Trafford Centre - Gorton,3
+SCMN156B:I:2021-05-24,SCMN,156,Middleton - Manchester,3
+SCMN156B:I:2021-06-29,SCMN,156,Middleton - Manchester,3
+SCMN156B:O:2021-05-24,SCMN,156,Manchester - Middleton,3
+SCMN156B:O:2021-06-29,SCMN,156,Manchester - Middleton,3
+SCMN183A:I:2021-05-24,SCMN,183,Royal Oldham Hospital - Limeside,3
+SCMN183A:I:2021-06-29,SCMN,183,Royal Oldham Hospital - Limeside,3
+SCMN183A:O:2021-05-24,SCMN,183,Limeside - Royal Oldham Hospital,3
+SCMN183A:O:2021-06-29,SCMN,183,Limeside - Royal Oldham Hospital,3
+SCMN191:I:2021-05-24,SCMN,191,Hazel Grove - Manchester(Albert Sq),3
+SCMN191:I:2021-06-29,SCMN,191,Hazel Grove - Manchester(Albert Sq),3
+SCMN191:O:2021-05-24,SCMN,191,Manchester(Albert Sq) - Hazel Grove,3
+SCMN191:O:2021-06-29,SCMN,191,Manchester(Albert Sq) - Hazel Grove,3
+SCMN192:I:2021-05-24,SCMN,192,Hazel Grove - Manchester,3
+SCMN192:I:2021-06-29,SCMN,192,Hazel Grove - Manchester,3
+SCMN192:O:2021-05-24,SCMN,192,Manchester - Hazel Grove,3
+SCMN192:O:2021-06-29,SCMN,192,Manchester - Hazel Grove,3
+SCMN197:I:2021-05-24,SCMN,197,Stockport (via Uni's) - Manchester,3
+SCMN197:I:2021-06-29,SCMN,197,Stockport (via Uni's) - Manchester,3
+SCMN197:O:2021-05-24,SCMN,197,Manchester - Stockport (via Uni's),3
+SCMN197:O:2021-06-29,SCMN,197,Manchester - Stockport (via Uni's),3
+SCMN201A:I:2021-05-24,SCMN,201,Mottram - Hyde - Manchester,3
+SCMN201A:I:2021-06-29,SCMN,201,Mottram - Hyde - Manchester,3
+SCMN201A:O:2021-05-24,SCMN,201,Manchester - Hyde - Mottram,3
+SCMN201A:O:2021-06-29,SCMN,201,Manchester - Hyde - Mottram,3
+SCMN202:I:2021-05-24,SCMN,202,Hyde/Gee Cross - Manchester,3
+SCMN202:I:2021-06-29,SCMN,202,Hyde/Gee Cross - Manchester,3
+SCMN202:O:2021-05-24,SCMN,202,Manchester - Hyde/Gee Cross,3
+SCMN202:O:2021-06-29,SCMN,202,Manchester - Hyde/Gee Cross,3
+SCMN203:I:2021-05-24,SCMN,203,Stockport via Reddish - Manchester,3
+SCMN203:I:2021-06-29,SCMN,203,Stockport via Reddish - Manchester,3
+SCMN203:O:2021-05-24,SCMN,203,Manchester - Stockport via Reddish,3
+SCMN203:O:2021-06-29,SCMN,203,Manchester - Stockport via Reddish,3
+SCMN205:I:2021-05-24,SCMN,205,Dane Bank - Manchester,3
+SCMN205:I:2021-06-29,SCMN,205,Dane Bank - Manchester,3
+SCMN205:O:2021-05-24,SCMN,205,Manchester - Dane Bank,3
+SCMN205:O:2021-06-29,SCMN,205,Manchester - Dane Bank,3
+SCMN216:I:2021-05-24,SCMN,216,Ashton - Manchester,3
+SCMN216:I:2021-06-29,SCMN,216,Ashton - Manchester,3
+SCMN216:O:2021-05-24,SCMN,216,Manchester - Ashton,3
+SCMN216:O:2021-06-29,SCMN,216,Manchester - Ashton,3
+SCMN219:I:2021-05-24,SCMN,219,Ashton / Stalybridge - Manchester,3
+SCMN219:I:2021-06-29,SCMN,219,Ashton / Stalybridge - Manchester,3
+SCMN219:O:2021-05-24,SCMN,219,Manchester - Ashton / Stalybridge,3
+SCMN219:O:2021-06-29,SCMN,219,Manchester - Ashton / Stalybridge,3
+SCMN220:O:2021-05-24,SCMN,220,Manchester - Stalybridge,3
+SCMN220:O:2021-06-29,SCMN,220,Manchester - Stalybridge,3
+SCMN221:I:2021-05-24,SCMN,221,Broadbent Fold - Manchester,3
+SCMN221:I:2021-06-29,SCMN,221,Broadbent Fold - Manchester,3
+SCMN221:O:2021-05-24,SCMN,221,Manchester - Broadbent Fold,3
+SCMN221:O:2021-06-29,SCMN,221,Manchester - Broadbent Fold,3
+SCMN230A:I:2021-05-24,SCMN,230,Littlemoss/Ashton - Manchester,3
+SCMN230A:I:2021-06-29,SCMN,230,Littlemoss/Ashton - Manchester,3
+SCMN230A:O:2021-05-24,SCMN,230,Manchester - Littlemoss/Ashton,3
+SCMN230A:O:2021-06-29,SCMN,230,Manchester - Littlemoss/Ashton,3
+SCMN231:I:2021-05-24,SCMN,231,Ashton - Manchester,3
+SCMN231:I:2021-06-29,SCMN,231,Ashton - Manchester,3
+SCMN231:O:2021-05-24,SCMN,231,Manchester - Ashton,3
+SCMN231:O:2021-06-29,SCMN,231,Manchester - Ashton,3
+SCMN237:I:2021-05-24,SCMN,237,Glossop - Ashton,3
+SCMN237:I:2021-06-29,SCMN,237,Glossop - Ashton,3
+SCMN237:O:2021-05-24,SCMN,237,Ashton - Glossop,3
+SCMN237:O:2021-06-29,SCMN,237,Ashton - Glossop,3
+SCMN250A:I:2021-05-24,SCMN,250,The Trafford Centre - Manchester,3
+SCMN250A:I:2021-06-29,SCMN,250,The Trafford Centre - Manchester,3
+SCMN250A:O:2021-05-24,SCMN,250,Manchester - The Trafford Centre,3
+SCMN250A:O:2021-06-29,SCMN,250,Manchester - The Trafford Centre,3
+SCMN253:I:2021-05-24,SCMN,253,Partington - Manchester,3
+SCMN253:I:2021-06-29,SCMN,253,Partington - Manchester,3
+SCMN255:I:2021-05-24,SCMN,255,Partington - Manchester,3
+SCMN255:I:2021-06-29,SCMN,255,Partington - Manchester,3
+SCMN255:O:2021-05-24,SCMN,255,Manchester - Partington,3
+SCMN255:O:2021-06-29,SCMN,255,Manchester - Partington,3
+SCMN256:I:2021-05-24,SCMN,256,Flixton - Manchester,3
+SCMN256:I:2021-06-29,SCMN,256,Flixton - Manchester,3
+SCMN256:O:2021-05-24,SCMN,256,Manchester - Flixton,3
+SCMN256:O:2021-06-29,SCMN,256,Manchester - Flixton,3
+SCMN312B:O:2021-05-16,SCMN,312S,Stockport - Handforth Dean,3
+SCMN313:O:2021-05-24,SCMN,313,Stockport - Manchester Airport,3
+SCMN313:O:2021-06-29,SCMN,313,Stockport - Manchester Airport,3
+SCMN314B:O:2021-05-24,SCMN,314,Stockport - Offerton Circular,3
+SCMN314B:O:2021-06-29,SCMN,314,Stockport - Offerton Circular,3
+SCMN322:I:2021-05-24,SCMN,322,Haughton Green - Stockport,3
+SCMN322:I:2021-06-29,SCMN,322,Haughton Green - Stockport,3
+SCMN322:O:2021-05-24,SCMN,322,Stockport - Haughton Green,3
+SCMN322:O:2021-06-29,SCMN,322,Stockport - Haughton Green,3
+SCMN323:O:2021-05-24,SCMN,323,Stockport - Heaton Mersey,3
+SCMN323:O:2021-06-29,SCMN,323,Stockport - Heaton Mersey,3
+SCMN324:O:2021-05-24,SCMN,324,Stockport - Haughton Green,3
+SCMN324:O:2021-06-29,SCMN,324,Stockport - Haughton Green,3
+SCMN325:O:2021-05-24,SCMN,325,Stockport - Brinnington Circular,3
+SCMN325:O:2021-06-29,SCMN,325,Stockport - Brinnington Circular,3
+SCMN327:I:2021-05-24,SCMN,327,Denton - Stockport,3
+SCMN327:I:2021-06-29,SCMN,327,Denton - Stockport,3
+SCMN327:O:2021-05-24,SCMN,327,Stockport - Denton,3
+SCMN327:O:2021-06-29,SCMN,327,Stockport - Denton,3
+SCMN328B:O:2021-05-24,SCMN,328,Stockport - Adswood circular,3
+SCMN328B:O:2021-06-29,SCMN,328,Stockport - Adswood circular,3
+SCMN330:I:2021-05-24,SCMN,330,Ashton - Stockport,3
+SCMN330:I:2021-06-29,SCMN,330,Ashton - Stockport,3
+SCMN330:O:2021-05-24,SCMN,330,Stockport - Ashton,3
+SCMN330:O:2021-06-29,SCMN,330,Stockport - Ashton,3
+SCMN336B:O:2021-05-24,SCMN,336,Ashton - Hazelhurst,3
+SCMN336B:O:2021-06-29,SCMN,336,Ashton - Hazelhurst,3
+SCMN337:I:2021-05-24,SCMN,337,Ashton - Hazelhurst circular,3
+SCMN337:I:2021-06-29,SCMN,337,Ashton - Hazelhurst circular,3
+SCMN342D:O:2021-05-24,SCMN,342,Hyde - Backbower,3
+SCMN342D:O:2021-06-29,SCMN,342,Hyde - Backbower,3
+SCMN343:I:2021-05-24,SCMN,343,Oldham - Hyde,3
+SCMN343:I:2021-06-29,SCMN,343,Oldham - Hyde,3
+SCMN343:O:2021-05-24,SCMN,343,Hyde - Oldham,3
+SCMN343:O:2021-06-29,SCMN,343,Hyde - Oldham,3
+SCMN344D:O:2021-05-24,SCMN,344,Hyde - Backbower,3
+SCMN344D:O:2021-06-29,SCMN,344,Hyde - Backbower,3
+SCMN345:O:2021-05-24,SCMN,345,Ashton - Denton,3
+SCMN345:O:2021-06-29,SCMN,345,Ashton - Denton,3
+SCMN346:I:2021-05-24,SCMN,346,Hyde - Ashton,3
+SCMN346:I:2021-06-29,SCMN,346,Hyde - Ashton,3
+SCMN346:O:2021-05-24,SCMN,346,Ashton - Hyde,3
+SCMN346:O:2021-06-29,SCMN,346,Ashton - Hyde,3
+SCMN347:O:2021-05-24,SCMN,347,Ashton - Haughton Green,3
+SCMN347:O:2021-06-29,SCMN,347,Ashton - Haughton Green,3
+SCMN34A:I:2021-05-24,SCMN,34A,Worsley - Manchester,3
+SCMN34A:I:2021-06-29,SCMN,34A,Worsley - Manchester,3
+SCMN34A:O:2021-05-24,SCMN,34A,Manchester - Worsley,3
+SCMN34A:O:2021-06-29,SCMN,34A,Manchester - Worsley,3
+SCMN350:I:2021-05-24,SCMN,350,Ashton - Oldham,3
+SCMN350:I:2021-06-29,SCMN,350,Ashton - Oldham,3
+SCMN350:O:2021-05-24,SCMN,350,Oldham - Ashton,3
+SCMN350:O:2021-06-29,SCMN,350,Oldham - Ashton,3
+SCMN358:I:2021-05-24,SCMN,358,Hayfield - Stockport,3
+SCMN358:I:2021-06-29,SCMN,358,Hayfield - Stockport,3
+SCMN358:O:2021-05-24,SCMN,358,Stockport - Hayfield,3
+SCMN358:O:2021-06-29,SCMN,358,Stockport - Hayfield,3
+SCMN360:O:2021-05-24,SCMN,360,Stockport - Hayfield,3
+SCMN360:O:2021-06-29,SCMN,360,Stockport - Hayfield,3
+SCMN368:I:2021-05-24,SCMN,368,Wythenshawe Hosp/Manchester Airport - Stockport,3
+SCMN368:I:2021-06-29,SCMN,368,Wythenshawe Hosp/Manchester Airport - Stockport,3
+SCMN368:O:2021-05-24,SCMN,368,Stockport - Wythenshawe Hosp/Manchester Airport,3
+SCMN368:O:2021-06-29,SCMN,368,Stockport - Wythenshawe Hosp/Manchester Airport,3
+SCMN374:O:2021-05-24,SCMN,374,Reddish - Hazel Grove Stn,3
+SCMN374:O:2021-06-29,SCMN,374,Reddish - Hazel Grove Stn,3
+SCMN378:O:2021-05-24,SCMN,378,Stockport - Grove Lane,3
+SCMN378:O:2021-06-29,SCMN,378,Stockport - Grove Lane,3
+SCMN378A:O:2021-05-24,SCMN,378A,Stockport - Grove Lane,3
+SCMN378A:O:2021-06-29,SCMN,378A,Stockport - Grove Lane,3
+SCMN379:I:2021-05-24,SCMN,379,Stockport - Grove Lane,3
+SCMN379:I:2021-06-29,SCMN,379,Stockport - Grove Lane,3
+SCMN383:O:2021-05-24,SCMN,383,Stockport - Marple/Romiley Circular,3
+SCMN383:O:2021-06-29,SCMN,383,Stockport - Marple/Romiley Circular,3
+SCMN384:O:2021-05-24,SCMN,384,Stockport - Marple/Romiley Circular,3
+SCMN384:O:2021-06-29,SCMN,384,Stockport - Marple/Romiley Circular,3
+SCMN387:I:2021-05-24,SCMN,387,Hyde - Tameside Hospital,3
+SCMN387:I:2021-06-29,SCMN,387,Hyde - Tameside Hospital,3
+SCMN387:O:2021-05-24,SCMN,387,Tameside Hospital - Hyde,3
+SCMN387:O:2021-06-29,SCMN,387,Tameside Hospital - Hyde,3
+SCMN389A:O:2021-05-24,SCMN,389,Ashton - Astley,3
+SCMN389A:O:2021-06-29,SCMN,389,Ashton - Astley,3
+SCMN415:I:2021-05-24,SCMN,415,Middleton - Oldham,3
+SCMN415:I:2021-06-29,SCMN,415,Middleton - Oldham,3
+SCMN415:O:2021-05-24,SCMN,415,Oldham - Middleton,3
+SCMN415:O:2021-06-29,SCMN,415,Oldham - Middleton,3
+SCMN425A:I:2021-05-24,SCMN,425,Oldham - Holts,3
+SCMN425A:I:2021-06-29,SCMN,425,Oldham - Holts,3
+SCMN425A:O:2021-05-24,SCMN,425,Holts - Oldham,3
+SCMN425A:O:2021-06-29,SCMN,425,Holts - Oldham,3
+SCMN426:O:2021-05-24,SCMN,426,Oldham - Fitton Hill circular,3
+SCMN426:O:2021-06-29,SCMN,426,Oldham - Fitton Hill circular,3
+SCMN42A:I:2021-05-24,SCMN,42A,North Reddish - Piccadilly,3
+SCMN42A:I:2021-06-29,SCMN,42A,North Reddish - Piccadilly,3
+SCMN42A:O:2021-05-24,SCMN,42A,Piccadilly - North Reddish,3
+SCMN42A:O:2021-06-29,SCMN,42A,Piccadilly - North Reddish,3
+SCMN42B:I:2021-05-24,SCMN,42B,Woodford - Piccadilly,3
+SCMN42B:I:2021-06-29,SCMN,42B,Woodford - Piccadilly,3
+SCMN42B:O:2021-05-24,SCMN,42B,Piccadilly - Woodford,3
+SCMN42B:O:2021-06-29,SCMN,42B,Piccadilly - Woodford,3
+SCMN42C:I:2021-05-24,SCMN,42C,Handforth Dean - Piccadilly,3
+SCMN42C:I:2021-06-29,SCMN,42C,Handforth Dean - Piccadilly,3
+SCMN42C:O:2021-05-24,SCMN,42C,Piccadilly - Handforth Dean,3
+SCMN42C:O:2021-06-29,SCMN,42C,Piccadilly - Handforth Dean,3
+SCMN630A:I:2021-05-16,SCMN,630,Winstanley College - Wigan,3
+SCMN634:O:2021-05-24,SCMN,634,Wigan - Castle Hill circular,3
+SCMN634:O:2021-06-29,SCMN,634,Wigan - Castle Hill circular,3
+SCMN635:I:2021-05-24,SCMN,635,Wrightington Hospital - Wigan,3
+SCMN635:I:2021-06-29,SCMN,635,Wrightington Hospital - Wigan,3
+SCMN635:O:2021-05-24,SCMN,635,Wigan - Wrightington Hospital,3
+SCMN635:O:2021-06-29,SCMN,635,Wigan - Wrightington Hospital,3
+SCMN701:O:2021-05-16,SCMN,701,Denton Community College - Dane Bank,3
+SCMN703C:I:2021-05-16,SCMN,703,Ancoats - Wright Robinson,3
+SCMN703C:O:2021-05-16,SCMN,703,Wright Robinson - Ancoats,3
+SCMN704A:I:2021-05-16,SCMN,704,Newton Heath - Wright Robinson HS,3
+SCMN704A:O:2021-05-16,SCMN,704,Wright Robinson HS - Newton Heath,3
+SCMN705:I:2021-05-16,SCMN,705,Wright Robinson High School - Denton,3
+SCMN705:O:2021-05-16,SCMN,705,Denton - Wright Robinson High School,3
+SCMN706A:O:2021-05-16,SCMN,706,Wright Robinson College - Burnage,3
+SCMN707A:O:2021-05-16,SCMN,707,Fairfield High School - Dane Bank,3
+SCMN718B:I:2021-05-16,SCMN,718,Moston Vale - Our Lady's R.C. High School,3
+SCMN718B:O:2021-05-16,SCMN,718,Our Lady's R.C. High School - Moston Vale,3
+SCMN719C:I:2021-05-16,SCMN,719,St Thomas More HS - Clayton,3
+SCMN719C:O:2021-05-16,SCMN,719,Clayton - St Thomas More HS,3
+SCMN720:I:2021-05-16,SCMN,720,Hulme - Loreto High School,3
+SCMN720:O:2021-05-16,SCMN,720,Loreto High School - Hulme,3
+SCMN721:I:2021-05-16,SCMN,721S,Strangeways - op Academy North Manchester - Co,3
+SCMN721:O:2021-05-16,SCMN,721S,Co - op Academy North Manchester - Strangeways,3
+SCMN721A:O:2021-05-16,SCMN,721,Audenshaw School - Dukinfield,3
+SCMN724:I:2021-05-16,SCMN,724,Moston - Trinity High School,3
+SCMN724:O:2021-05-16,SCMN,724,Trinity High School - Moston,3
+SCMN725A:I:2021-05-16,SCMN,725,Ryder Brow - Trinity High School,3
+SCMN725A:O:2021-05-16,SCMN,725,Trinity High School - Ryder Brow,3
+SCMN727:I:2021-05-16,SCMN,727,Ardwick - Barlow R.C. High School,3
+SCMN727:O:2021-05-16,SCMN,727,Barlow R.C. High School - Ardwick,3
+SCMN728:O:2021-05-16,SCMN,728,Barlow R.C. High School - Moss Side,3
+SCMN729:I:2021-05-16,SCMN,729,Britannia Hotel - St. Paul's High School,3
+SCMN731:O:2021-05-16,SCMN,731,Droylsden High School - Hartshead,3
+SCMN733:I:2021-05-16,SCMN,733,Whalley Range High School - Bury Old Road,3
+SCMN733:O:2021-05-16,SCMN,733,Bury Old Road - Whalley Range High School,3
+SCMN742:I:2021-05-16,SCMN,742,Burnage - Loreto College,3
+SCMN742:O:2021-05-16,SCMN,742,Loreto College - Burnage,3
+SCMN743:I:2021-05-16,SCMN,743,Heald Green - Loreto College,3
+SCMN747C:O:2021-05-16,SCMN,747,Denton - Fairfield High School,3
+SCMN748D:I:2021-05-16,SCMN,748,Gorton - Burnage Academy,3
+SCMN749:I:2021-05-16,SCMN,749,Moss Side - Burnage High School,3
+SCMN749:O:2021-05-16,SCMN,749,Burnage High School - Moss Side,3
+SCMN750A:I:2021-05-16,SCMN,750,Barlow High School - Manchester,3
+SCMN751A:I:2021-05-16,SCMN,751,Barlow High School - Manchester,3
+SCMN758B:I:2021-05-16,SCMN,758,Gatley - St James' HS,3
+SCMN758B:O:2021-05-16,SCMN,758,St James' HS - Gatley,3
+SCMN76A:I:2021-05-24,SCMN,76A,Oldham - Manchester,3
+SCMN76A:I:2021-06-29,SCMN,76A,Oldham - Manchester,3
+SCMN76A:O:2021-05-24,SCMN,76A,Manchester - Oldham,3
+SCMN76A:O:2021-06-29,SCMN,76A,Manchester - Oldham,3
+SCMN770A:O:2021-05-16,SCMN,770,St Damian's Sports College - Waterhead,3
+SCMN774A:O:2021-05-16,SCMN,774,Altrincham College - Wythenshawe,3
+SCMN776A:I:2021-05-16,SCMN,776,Failsworth School - Manchester,3
+SCMN786A:I:2021-05-16,SCMN,786,Flixton - St. Antony's C.C.,3
+SCMN786A:O:2021-05-16,SCMN,786,St. Antony's C.C. - Flixton,3
+SCMN790B:I:2021-05-16,SCMN,790S,Reddish - St. Thomas More R.C.H.S.,3
+SCMN790B:O:2021-05-16,SCMN,790S,St. Thomas More R.C.H.S. - Reddish,3
+SCMN792A:I:2021-05-16,SCMN,792,Aquinas College - Heaton Moor,3
+SCMN796:O:2021-05-16,SCMN,796,Lostock College - Flixton,3
+SCMN797:I:2021-05-16,SCMN,797,Manchester - Burnage High School,3
+SCMN798:I:2021-05-16,SCMN,798,Stretford - Wellacre Academy,3
+SCMN798:O:2021-05-16,SCMN,798,Wellacre Academy - Stretford,3
+SCMN799A:I:2021-05-16,SCMN,799,Boothstown - Flixton Girls' School,3
+SCMN799A:O:2021-05-16,SCMN,799,Flixton Girls' School - Boothstown,3
+SCMN800:I:2021-05-16,SCMN,800,Hyde - Marple Hall School,3
+SCMN800:O:2021-05-16,SCMN,800,Marple Hall School - Hyde,3
+SCMN802A:I:2021-05-16,SCMN,802,Marple Hall School - Mellor/Bredbury,3
+SCMN802A:O:2021-05-16,SCMN,802,Mellor/Bredbury - Marple Hall School,3
+SCMN804D:I:2021-05-16,SCMN,804,Harrytown High School - Hazel Grove,3
+SCMN804D:O:2021-05-16,SCMN,804,Hazel Grove - Harrytown High School,3
+SCMN806C:I:2021-05-16,SCMN,806,Bredbury - Marple Hall School,3
+SCMN806C:O:2021-05-16,SCMN,806,Marple Hall School - Bredbury,3
+SCMN808D:I:2021-05-16,SCMN,808,Lane Ends - Marple Hall HS,3
+SCMN808D:O:2021-05-16,SCMN,808,Marple Hall HS - Lane Ends,3
+SCMN809B:I:2021-05-16,SCMN,809,Marple Hall High School - Hazel Grove,3
+SCMN809B:O:2021-05-16,SCMN,809,Hazel Grove - Marple Hall High School,3
+SCMN815D:I:2021-05-16,SCMN,815,St James High School - Cheadle Heath,3
+SCMN815D:O:2021-05-16,SCMN,815,Cheadle Heath - St James High School,3
+SCMN817:I:2021-05-16,SCMN,817,Stalybridge - Longdendale HS,3
+SCMN817:O:2021-05-16,SCMN,817,Longdendale HS - Stalybridge,3
+SCMN820A:I:2021-05-16,SCMN,820,Ridge Hill - Copley Academy,3
+SCMN820A:O:2021-05-16,SCMN,820,Copley Academy - Ridge Hill,3
+SCMN821:O:2021-05-16,SCMN,821,Bardsley - Blessed John H Newman Co,3
+SCMN827:I:2021-05-16,SCMN,827,Grand Central - Hazel Grove High School,3
+SCMN827:O:2021-05-16,SCMN,827,Hazel Grove High School - Grand Central,3
+SCMN834B:I:2021-05-16,SCMN,834,Marple - Hazel Grove HS,3
+SCMN834B:O:2021-05-16,SCMN,834,Hazel Grove HS - Marple,3
+SCMN837:I:2021-05-16,SCMN,837,Hyde - Longdendale High School,3
+SCMN837:O:2021-05-16,SCMN,837,Longdendale High School - Hyde,3
+SCMN844B:I:2021-05-16,SCMN,844,Marple - Offerton,3
+SCMN844B:O:2021-05-16,SCMN,844,Offerton - Marple,3
+SCMN845A:I:2021-05-16,SCMN,845,Harrytown HS - Stockport/Hazel Grove,3
+SCMN845A:O:2021-05-16,SCMN,845,Stockport/Hazel Grove - Harrytown HS,3
+SCMN847A:I:2021-05-16,SCMN,847,Gee Cross - Denton Community College,3
+SCMN847B:I:2021-05-16,SCMN,847S,Cheadle Heath - Cheadle Hulme High School,3
+SCMN852B:I:2021-05-16,SCMN,852,Bramhall High School - Cheadle,3
+SCMN852B:O:2021-05-16,SCMN,852,Cheadle - Bramhall High School,3
+SCMN857:I:2021-05-16,SCMN,857,Stockport - St James High School,3
+SCMN85A:I:2021-05-24,SCMN,85A,Chorlton - Manchester,3
+SCMN85A:I:2021-06-29,SCMN,85A,Chorlton - Manchester,3
+SCMN85A:O:2021-05-24,SCMN,85A,Manchester - Chorlton,3
+SCMN85A:O:2021-06-29,SCMN,85A,Manchester - Chorlton,3
+SCMN863D:O:2021-05-16,SCMN,866,Laurus Cheadle Hulme HS - Stockport,3
+SCMN864:I:2021-05-16,SCMN,864,St Damians - Droylsden,3
+SCMN864A:I:2021-05-16,SCMN,864C,Cheadle Hulme High School - Adswood,3
+SCMN864A:O:2021-05-16,SCMN,864C,Adswood - Cheadle Hulme High School,3
+SCMN869A:O:2021-05-16,SCMN,869,St. Ambrose College - Parrs Wood,3
+SCMN870A:I:2021-05-16,SCMN,870,Stalybridge - St Damians School,3
+SCMN870B:O:2021-05-16,SCMN,870S,Mossley Hollins High School - Carrbrook,3
+SCMN874H:I:2021-05-16,SCMN,874,Hazel Grove High School - Cheadle Heath,3
+SCMN874H:O:2021-05-16,SCMN,874,Cheadle Heath - Hazel Grove High School,3
+SCMN877D:I:2021-05-16,SCMN,877,Adswood - Bramhall High School,3
+SCMN877D:O:2021-05-16,SCMN,877,Bramhall High School - Adswood,3
+SCMN878B:I:2021-05-16,SCMN,878,St James High School - Stockport,3
+SCMN886:I:2021-05-16,SCMN,886,Chorlton - Manchester,3
+SCMN886:O:2021-05-16,SCMN,886,Manchester - Chorlton,3
+SCMN891A:I:2021-05-16,SCMN,891,Stockport - Poynton High School,3
+SCMN891A:O:2021-05-16,SCMN,891,Poynton High School - Stockport,3
+SCMNX50:I:2021-05-24,SCMN,X50,Manchester - The Trafford Centre,3
+SCMNX50:I:2021-06-29,SCMN,X50,Manchester - The Trafford Centre,3
+SCMNX50:O:2021-05-24,SCMN,X50,The Trafford Centre - Manchester,3
+SCMNX50:O:2021-06-29,SCMN,X50,The Trafford Centre - Manchester,3
+SCMNX58:I:2021-05-24,SCMN,X58,Flixton - Manchester,3
+SCMNX58:I:2021-06-29,SCMN,X58,Flixton - Manchester,3
+SCMNX58:O:2021-05-24,SCMN,X58,Manchester - Flixton,3
+SCMNX58:O:2021-06-29,SCMN,X58,Manchester - Flixton,3
+SCMNX92:I:2021-05-24,SCMN,X92,Hazel Grove - Manchester,3
+SCMNX92:I:2021-06-29,SCMN,X92,Hazel Grove - Manchester,3
+SCMY08A:I:2021-05-09,SCMY,8A,Blackrod - Chorley,3
+SCMY08A:O:2021-05-09,SCMY,8A,Chorley - Blackrod,3
+SCMY111:I:2021-05-09,SCMY,111,Leyland - Preston,3
+SCMY111:O:2021-05-09,SCMY,111,Preston - Leyland,3
+SCMY125:I:2021-05-09,SCMY,125,Bolton - Preston,3
+SCMY125:O:2021-05-09,SCMY,125,Preston - Bolton,3
+SELT044C:I:2021-04-19,SELT,44,Manchester - MRI - Withington - Wythenshawe Hospital,3
+SELT044C:O:2021-04-19,SELT,44,Wythenshawe Hospital - Withington - MRI - Manchester,3
+SELT382C:I:2021-04-19,SELT,382,Woodley - Romiley - Stockport,3
+SELT382C:O:2021-04-19,SELT,382,Stockport - Romiley - Woodley,3
+SPCT352B:I:2020-07-04,SPCT,352,Uppermill - Holmfirth,3
+SPCT352B:O:2020-07-04,SPCT,352,Holmfirth - Uppermill,3
+SPCT357:I:2020-06-30,SPCT,357,Lyne - under - Ashton - Holmfirth,3
+SPCT357:O:2020-06-30,SPCT,357,Holmfirth - Ashton - under - Lyne,3
+STOT094:I:2021-01-31,STOT,94,North Manchester General Hospital - Cheetham Hill - Prestwich - Pilsworth,3
+STOT094:O:2021-01-31,STOT,94,Pilsworth - Prestwich - Cheetham Hill - North Manchester General Hospital,3
+STOT125B:O:2021-04-11,STOT,125,Middleton - Langley/Alkrington circular,3
+STOT125C:I:2021-03-08,STOT,125,Mottram - Blue Coat School,3
+STOT125C:O:2021-03-08,STOT,125,Blue Coat School - Mottram,3
+STOT127:I:2021-03-08,STOT,127,Gee Cross - Ashton - Blue Coat School,3
+STOT127:O:2021-03-08,STOT,127,Blue Coat School - Ashton - Gee Cross,3
+STOT159:I:2021-04-11,STOT,159,Oldham - Middleton,3
+STOT159:O:2021-04-11,STOT,159,Middleton - Oldham,3
+STOT339:O:2021-04-11,STOT,339,Ashton - Crowhill circular,3
+STOT341A:I:2021-04-11,STOT,341,Glossop - Hattersley - Hyde Hospital - Hyde,3
+STOT341A:O:2021-04-11,STOT,341,Hyde - Hyde Hospital - Hattersley - Glossop,3
+STOT343:I:2021-04-11,STOT,343,Oldham - Hyde,3
+STOT343:O:2021-04-11,STOT,343,Hyde - Oldham,3
+STOT364:O:2021-04-11,STOT,364,Stockport - Woodbank Park circular,3
+STOT387:I:2021-04-11,STOT,387,Hyde - Hattersley - Stalybridge - Ashton,3
+STOT387:O:2021-04-11,STOT,387,Ashton - Stalybridge - Hattersley - Hyde,3
+STOT396B:I:2021-04-11,STOT,396,Middleton - Fitton Hill - Limehurst Farm - Ashton,3
+STOT396B:O:2021-04-11,STOT,396,Ashton - Limehurst Farm - Fitton Hill - Middleton,3
+STOT402:O:2021-04-11,STOT,402,Oldham - Royal Oldham Hospital - Royton Circular,3
+STOT403:O:2021-04-11,STOT,403,Oldham - Shaw - Rushcroft - High Crompton circular,3
+STOT408:O:2021-03-08,STOT,408,Crompton House School - Royton -  Oldham,3
+STOT770A:I:2021-03-08,STOT,770,Waterhead - St. Damian's College,3
+STOT771A:O:2021-03-08,STOT,771,St Damians RC Science College - Ashton - Clayton,3
+STOT775B:O:2021-03-08,STOT,775,St Damian's RC Science College - Oldham - Fitton Hill,3
+STOT788A:I:2021-03-08,STOT,788,Alkrington - Cardinal Langley,3
+STOT788A:O:2021-03-08,STOT,788,Cardinal Langley - Alkrington,3
+STOT803B:O:2021-03-08,STOT,803,Lees - Mossley Hollins High School,3
+STOT812:O:2021-03-08,STOT,812,Blessed John Henry Newman College - Holt,3
+STOT824A:I:2021-03-08,STOT,824,Bardsley - Blessed John Henry Newman College,3
+STOT824A:O:2021-03-08,STOT,824,Blessed John Henry Newman College - Bardsley,3
+STOT826:I:2021-03-08,STOT,826,Grains Bar - Denshaw - Saddleworth School,3
+STOT826:O:2021-03-08,STOT,826,Saddleworth School - Denshaw - Grains Bar,3
+STOT830A:O:2021-03-08,STOT,830,High Crompton - Royton & Crompton School,3
+STOT832C:I:2021-03-08,STOT,832,Shaw - North Chadderton Upper School,3
+STOT832C:O:2021-03-08,STOT,832,North Chadderton Upper School - Shaw,3
+STOT838:I:2021-03-08,STOT,838,LONGDENDALE HIGH SCHOOL - RIDGE HILL,3
+STOT838:O:2021-03-08,STOT,838,RIDGE HILL - LONGDENDALE HIGH SCHOOL,3
+STOT839B:I:2021-03-08,STOT,839,Sholver - Waterhead Academy,3
+STOT841A:O:2021-03-08,STOT,841,ALL SAINTS CATHOLIC COLLEGE - HATTERSLEY,3
+STOT870A:I:2021-03-08,STOT,870,Mossley Road - St Damians RC Science College,3
+STOT879A:O:2021-03-08,STOT,879,Royton & Crompton School - Derker - Sholver,3
+TASLTA01:I:2021-04-11,TASL,TA01,Darwen - Edgworth - Harwood,3
+TASLTA01:O:2021-04-11,TASL,TA01,Harwood - Edgworth - Darwen,3
+TASLTA02:I:2021-04-11,TASL,TA02,Bury - Tottington - Edgworth - Darwen,3
+TASLTA02:O:2021-04-11,TASL,TA02,Darwen - Edgworth - Tottington - Bury,3
+VIKG764:O:2020-09-01,VIKG,764,Newhouse Academy - Rhodes,3
+VIKG880C:O:2020-09-01,VIKG,880,Norden - St Cuthbert's RC High School,3
+VISB008:I:2021-04-11,VISB,8,Leigh - Wigan,3
+VISB008:O:2021-04-11,VISB,8,Wigan - Leigh,3
+VISB0V1A:I:2021-04-19,VISB,V1,ALBANY ACADEMY - HORWICH LEISURE CENTRE,3
+VISB0V1A:O:2021-04-19,VISB,V1,HORWICH LEISURE CENTRE - ALBANY ACADEMY,3
+VISB125A:O:2021-04-19,VISB,125,Rivington & Blackrod High School - Doffcocker,3
+VISB126:I:2021-04-19,VISB,126,Bolton - Rivington & Blackrod High School,3
+VISB129:I:2021-04-11,VISB,129,Higher Green - Boothstown - Walkden - Little Hulton - Farnworth,3
+VISB129:O:2021-04-11,VISB,129,Farnworth - Little Hulton - Walkden - Boothstown - Higher Green,3
+VISB494:I:2021-04-11,VISB,494,Ferngrove - Bury,3
+VISB494:O:2021-04-11,VISB,494,Bury - Ferngrove,3
+VISB501:I:2021-04-11,VISB,501,Farnworth - Royal Bolton Hospital - Bolton - Brownlow Fold - Johnson Fold,3
+VISB501:O:2021-04-11,VISB,501,Johnson Fold - Brownlow Fold - Bolton - Royal Bolton Hospital - Farnworth,3
+VISB502:O:2021-04-11,VISB,502,Bolton - Johnson Fold circular,3
+VISB503:O:2021-04-11,VISB,503,Bolton - Johnson Fold circular,3
+VISB505A:I:2021-04-19,VISB,505,Daisy Hill - Rivington & Blackrod High School,3
+VISB505A:O:2021-04-19,VISB,505,Rivington & Blackrod High School - Daisy Hill,3
+VISB511:I:2021-04-11,VISB,511,Bury - Walshaw - Withins - Breightmet - Leverhulme Park - Bolton,3
+VISB511:O:2021-04-11,VISB,511,Bolton - Leverhulme Park - Breightmet - Withins - Walshaw - Bury,3
+VISB512:I:2021-04-11,VISB,512,Bury - Ainsworth - Radcliffe - Farnworth,3
+VISB512:O:2021-04-11,VISB,512,Farnworth - Radcliffe - Ainsworth - Bury,3
+VISB513:I:2021-04-11,VISB,513,Bury - Radcliffe - Whitefield - Farnworth,3
+VISB513:O:2021-04-11,VISB,513,Farnworth - Whitefield - Radcliffe - Bury,3
+VISB516:I:2021-04-11,VISB,516,Leigh - Atherton - Westhoughton - Horwich,3
+VISB516:O:2021-04-11,VISB,516,Horwich - Westhoughton - Atherton - Leigh,3
+VISB520:O:2021-04-11,VISB,520,Bolton - Deane Road - Ladybridge - Westhoughton circular,3
+VISB521:I:2021-04-11,VISB,521,Little Lever - Farnworth - Royal Bolton Hospital - Logistics North - Westhoughton - Blackrod,3
+VISB521:O:2021-04-11,VISB,521,Blackrod - Westhoughton - Logistics North - Royal Bolton Hospital - Farnworth - Little Lever,3
+VISB525:O:2021-04-11,VISB,525,Bolton - Hall i'th Wood circular,3
+VISB526:I:2021-04-11,VISB,526,Barrow Bridge - Halliwell - Bolton,3
+VISB526:O:2021-04-11,VISB,526,Bolton - Halliwell - Barrow Bridge,3
+VISB527:O:2021-04-11,VISB,527,Bolton - Hall i'th Wood circular,3
+VISB533:I:2021-04-11,VISB,533,Egerton - Tonge Moor - Bolton,3
+VISB533:O:2021-04-11,VISB,533,Bolton - Tonge Moor - Egerton,3
+VISB534:I:2021-04-11,VISB,534,Oldhams Estate - Astley Bridge - Bolton,3
+VISB534:O:2021-04-11,VISB,534,Bolton - Astley Bridge - Oldhams Estate,3
+VISB535:I:2021-04-11,VISB,535,Belmont - Astley Bridge - Bolton,3
+VISB535:O:2021-04-11,VISB,535,Bolton - Astley Bridge - Belmont,3
+VISB537:O:2021-04-11,VISB,537,Bolton - Astley Bridge - Bank Top circular,3
+VISB541A:I:2021-04-11,VISB,541,Toppings Estate - Bolton,3
+VISB541A:O:2021-04-11,VISB,541,Bolton - Toppings Estate,3
+VISB544:O:2021-04-11,VISB,544,Bolton - Darcy Lever - Little Lever circular,3
+VISB557:I:2021-04-11,VISB,557,Royal Bolton Hospital - Farnworth - Ringley Fold,3
+VISB557:O:2021-04-11,VISB,557,Ringley Fold - Farnworth - Royal Bolton Hospital,3
+VISB559:I:2021-04-11,VISB,559,Makerfield - Hindley - Westhoughton - Daubhill - Bolton,3
+VISB559:O:2021-04-11,VISB,559,Bolton - Daubhill - Westhoughton - Hindley - Makerfield,3
+VISB570B:I:2021-04-11,VISB,570,Sutton Estate - Great Lever - Bolton,3
+VISB570B:O:2021-04-11,VISB,570,Bolton - Great Lever - Sutton Estate,3
+VISB571:O:2021-04-11,VISB,571,Bolton - Great Lever circular,3
+VISB572:O:2021-04-11,VISB,572,Bolton - Great Lever circular,3
+VISB573:O:2021-04-19,VISB,573,Rivington & Blackrod High School - Bolton,3
+VISB574A:I:2021-04-11,VISB,574,Bolton - Markland Hill,3
+VISB574A:O:2021-04-11,VISB,574,Markland Hill - Bolton,3
+VISB574D:O:2021-04-19,VISB,574,Rivington & Blackrod High School - Bolton,3
+VISB577:I:2021-04-11,VISB,577,Blackrod - Brazley - Middlebrook - Bolton,3
+VISB577:O:2021-04-11,VISB,577,Bolton - Middlebrook - Brazley - Blackrod,3
+VISB584:O:2021-04-11,VISB,584,Leigh - Crankwood circular,3
+VISB588C:O:2021-04-11,VISB,588,Leigh - Plank Lan - Scott Road circular,3
+VISB595:O:2021-04-11,VISB,595,Leigh - Westleigh - Hindley Green circular,3
+VISB599:I:2021-04-19,VISB,599,Westleigh High School - Leigh,3
+VISB613:I:2021-04-11,VISB,613,New Springs - Wigan,3
+VISB613:O:2021-04-11,VISB,613,Wigan - New Springs,3
+VISB615:I:2021-04-19,VISB,615,Blackrod - Rivington & Blackrod High School - St Joseph's High School,3
+VISB615:O:2021-04-19,VISB,615,St Joseph's High School - Rivington & Blackrod High School - Blackrod,3
+VISB639:O:2021-04-11,VISB,639,Wigan - Marus Bridge - Pemberton circular,3
+VISB650:I:2021-04-19,VISB,650,Hindley Green - Byrchall/St Edmund Arrowsmith High Schools,3
+VISB650:O:2021-04-19,VISB,650,Byrchall/St Edmund Arrowsmith High Schools - Hindley Green,3
+VISB651:O:2021-04-19,VISB,651,Byrchall/St Edmund Arrowsmith High Schools - Hindley Green,3
+VISB656A:I:2021-04-19,VISB,656,Bickershaw - Byrchall/St Edmund Arrowsmith High Schools,3
+VISB656A:O:2021-04-19,VISB,656,Byrchall/St Edmund Arrowsmith High Schools - Bickershaw,3
+VISB792B:I:2021-04-19,VISB,792,Prestwich - Parrenthorn High School,3
+VISB792B:O:2021-04-19,VISB,792,Parrenthorn High School - Prestwich,3
+VISB796G:I:2021-04-19,VISB,796,Ringley Bridge - St Monica's RC High School,3
+VISB796G:O:2021-04-19,VISB,796,St Monica's RC High School - Ringley Bridge,3
+VISB798A:I:2021-04-19,VISB,798,Bradley Fold - St Monica's RC High School,3
+VISB798A:O:2021-04-19,VISB,798,St Monica's RC High School - Bradley Fold,3
+VISB799B:O:2021-04-19,VISB,799,St. Monicas RC High School - Ainsworth,3
+VISB885:O:2021-04-19,VISB,885,Tottington High School - Radcliffe,3
+VISB886:I:2021-04-19,VISB,886,Radcliffe - Tottington High School,3
+VISB886:O:2021-04-19,VISB,886,Tottington High School - Radcliffe,3
+VISB901B:I:2021-04-19,VISB,901,Ainsworth - Tottington High School,3
+VISB901B:O:2021-04-19,VISB,901,Tottington High School - Ainsworth,3
+VISB905D:I:2021-04-19,VISB,905,Westhoughton - Canon Slade School,3
+VISB906B:I:2021-04-19,VISB,906,Bradshaw Brow - Canon Slade School/Thornleigh College,3
+VISB910B:I:2021-04-19,VISB,910,Bolton - Smithills High School,3
+VISB910B:O:2021-04-19,VISB,910,Smithills High School - Bolton,3
+VISB911:O:2021-04-19,VISB,911,Bolton St Catherine's Academy - Bolton,3
+VISB915:I:2021-04-19,VISB,915,Bolton - St Josephs RC High School,3
+VISB915:O:2021-04-19,VISB,915,St Josephs RC High School - Bolton,3
+VISB916A:I:2021-04-19,VISB,916,Blackrod - Thornleigh College/Canon Slade School,3
+VISB918:I:2021-04-19,VISB,918,Hindley - Westhoughton - St Joseph's High School,3
+VISB918:O:2021-04-19,VISB,918,St Joseph's High School - Westhoughton - Hindley,3
+VISB919A:I:2021-04-19,VISB,919,Bolton - Thornleigh College,3
+VISB919A:O:2021-04-19,VISB,919,Thornleigh College - Bolton,3
+VISB922A:I:2021-04-19,VISB,922,Darcy Lever - Thornleigh College,3
+VISB922A:O:2021-04-19,VISB,922,Thornleigh College - Darcy Lever,3
+VISB923A:I:2021-04-19,VISB,923,Little Lever - Thornleigh College,3
+VISB923A:O:2021-04-19,VISB,923,Thornleigh College - Little Lever,3
+VISB924:O:2021-04-19,VISB,924,Westhoughton High School - Daubhill,3
+VISB928:I:2021-04-19,VISB,928,Breightmet - Sharples High School,3
+VISB928:O:2021-04-19,VISB,928,Sharples High School - Breightmet,3
+VISB929:I:2021-04-19,VISB,929,Bolton - Sharples High School,3
+VISB929:O:2021-04-19,VISB,929,Sharples High School - Bolton,3
+VISB930C:I:2021-04-19,VISB,930,Horrocks Fold - Canon Slade School,3
+VISB930C:O:2021-04-19,VISB,930,Canon Slade School - Horrocks Fold,3
+VISB937:I:2021-04-19,VISB,937,Farnworth - Canon Slade School,3
+VISB937:O:2021-04-19,VISB,937,Canon Slade School - Farnworth,3
+VISB943B:O:2021-04-19,VISB,943,Little Lever High School - Darcy Lever,3
+VISB944:O:2021-04-19,VISB,944,Thornleigh Salesian College - Tonge Moor,3
+VISB948:I:2021-04-19,VISB,948,Whelley - St John Fisher RC High School,3
+VISB963B:I:2021-04-19,VISB,963,Scholes - Winstanely College - St John Rigby College,3
+VISB968A:O:2021-04-19,VISB,968,Canon Slade H.S. - Bolton via Moss Bank Way,3
+VISB969:I:2021-04-19,VISB,969,Bolton - Canon Slade School,3
+VISB973:I:2021-04-19,VISB,973,Wigan - St Peter's RC High School,3
+VISB973:O:2021-04-19,VISB,973,St Peter's RC High School - Wigan,3
+VISB974:I:2021-04-19,VISB,974,Shevington Vale - St Peter's RC High School,3
+VISB974:O:2021-04-19,VISB,974,St Peter's RC High School - Shevington Vale,3
+VISB983A:O:2021-04-19,VISB,983,St Gabriel's RC High School - Walmersley,3
+VISB986B:I:2021-04-19,VISB,986,Swinton - Canon Slade School,3
+VISB986B:O:2021-04-19,VISB,986,Canon Slade School - Swinton,3
+VISB988B:O:2021-04-19,VISB,988,Canon Slade School - Pendlebury,3
+VISB990C:O:2021-04-19,VISB,990,St James HS - Westhoughton - Four Gates,3
+VISB992B:I:2021-04-19,VISB,992,Westhoughton - Canon Slade School,3
+VISB992B:O:2021-04-19,VISB,992,Canon Slade School - Westhoughton,3
+VISB996:I:2021-04-19,VISB,996,St Josephs HS - Lostock - Royal Bolton Hospital,3
+WBTR019H:I:2021-05-17,WBTR,19,Leigh - Culcheth - Croft - Winwick - Warrington,3
+WBTR019H:O:2021-05-17,WBTR,19,Warrington - Winwick - Croft - Culcheth - Leigh,3
+WBTR022:I:2021-05-17,WBTR,22,Ashton - Haydock - Earlestown - Newton-le-Willows - Winwick - Warrington,3
+WBTR022:O:2021-05-17,WBTR,22,Warrington - Winwick - Newton-le-Willows - Earlestown - Haydock - Ashton,3
+WBTR028:I:2021-05-17,WBTR,28,Leigh - Culcheth - Birchwood - Padgate - Warrington,3
+WBTR028:O:2021-05-17,WBTR,28,Warrington - Padgate - Birchwood - Culcheth - Leigh,3
+WBTR05A:I:2021-05-17,WBTR,5A,Altrincham - Partington - Thelwall - Warrington,3
+WBTR05A:O:2021-05-17,WBTR,5A,Warrington - Thelwall - Partington - Altrincham,3
+WBTR0P5:I:2021-03-15,WBTR,P5,Priestley College - Woolston - Hollins Green - Irlam,3
+WBTR0P5:O:2021-03-15,WBTR,P5,Irlam - Hollins Green - Woolston - Priestley College,3
+WBTR0P6:I:2021-03-15,WBTR,P6,Priestley College - Newton le Willows - Lowton - Golborne,3
+WBTR0P6:O:2021-03-15,WBTR,P6,Golborne - Lowton - Newton le Willows - Priestley College,3
+WBTR22A:I:2021-05-17,WBTR,22A,Wigan - Golborne - Newton-le-Willows - Winwick - Warrington,3
+WBTR22A:O:2021-05-17,WBTR,22A,Warrington - Winwick - Newton-le-Willows - Golborne - Wigan,3
+WBTR28A:I:2021-05-17,WBTR,28A,Leigh - Culcheth - Padgate - Warrington,3
+WBTR28A:O:2021-05-17,WBTR,28A,Warrington - Padgate - Culcheth - Leigh,3
+WBTR28E:I:2021-05-17,WBTR,28E,Leigh - Culcheth - Gorse Covert - Birchwood - Padgate - Warrington,3
+WBTR28E:O:2021-05-17,WBTR,28E,Warrington - Padgate - Birchwood - Gorse Covert - Culcheth - Leigh,3
+WBTR583:I:2021-05-17,WBTR,583,Shakerley - Leigh,3
+WBTR583:O:2021-05-17,WBTR,583,Leigh - Shakerley,3
+WBTR590A:O:2021-05-17,WBTR,590,LEIGH - PENNINGTON - LOWTON ESTATES,3
+WBTR596:O:2021-05-17,WBTR,596,LEIGH - LANDSIDE CIRCULAR,3
+WBTR640A:O:2021-05-17,WBTR,640,Wigan - Standish - Shevington Circular,3
+WBTR641A:I:2021-05-17,WBTR,641,WIGAN - Standish - SHEVINGTON MOOR,3
+WBTRCAT5:I:2021-05-17,WBTR,CAT5,Altrincham - Dunham - Warburton - Thelwall - Warrington,3
+WBTRCAT5:O:2021-05-17,WBTR,CAT5,Warrington - Thelwall - Warburton - Dunham - Altrincham,3
+YTIG587A:I:2020-11-08,YTIG,587,Rochdale - Halifax,3
+YTIG587A:O:2020-11-08,YTIG,587,Halifax - Rochdale,3

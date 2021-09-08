@@ -1,0 +1,42 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+AMSY,Arriva Merseyside,https://www.tfgm.com,Europe/London,en
+ANWE,Arriva North West,https://www.tfgm.com,Europe/London,en
+ATGB,Atlantic Travel,https://www.tfgm.com,Europe/London,en
+BESW,Bestway Travel,https://www.tfgm.com,Europe/London,en
+BEVC,Belle Vue,https://www.tfgm.com,Europe/London,en
+BLPH,Blackburn Private Hire,https://www.tfgm.com,Europe/London,en
+BPTR,Burnley Bus Company,https://www.tfgm.com,Europe/London,en
+BULL,Bullock Coaches,https://www.tfgm.com,Europe/London,en
+CUBU,Cumfy Bus,https://www.tfgm.com,Europe/London,en
+DAGC,D&G Bus,https://www.tfgm.com,Europe/London,en
+FCHS,Finches Coaches,https://www.tfgm.com,Europe/London,en
+FHUD,First West Yorkshire,https://www.tfgm.com,Europe/London,en
+FMAN,First Manchester,https://www.tfgm.com,Europe/London,en
+GEMS,Gemsar Travel Ltd,https://www.tfgm.com,Europe/London,en
+GOGO,Little Gem,https://www.tfgm.com,Europe/London,en
+GONW,Go North West,https://www.tfgm.com,Europe/London,en
+GTRI,Diamond Bus North West,https://www.tfgm.com,Europe/London,en
+HATT,Hattons Transport,https://www.tfgm.com,Europe/London,en
+HILT,Hiltons Travel,https://www.tfgm.com,Europe/London,en
+HIPK,High Peak Buses,https://www.tfgm.com,Europe/London,en
+HULS,Hulleys of Baslow,https://www.tfgm.com,Europe/London,en
+HUYT,Huyton Travel,https://www.tfgm.com,Europe/London,en
+LNNE,Link Network,https://www.tfgm.com,Europe/London,en
+LNUD,Blackburn Bus Company,https://www.tfgm.com,Europe/London,en
+MAGH,Maghull Coaches,https://www.tfgm.com,Europe/London,en
+METL,Metrolink,https://www.tfgm.com,Europe/London,en
+OLYM,Olympia Travel,https://www.tfgm.com,Europe/London,en
+PBLT,Preston Bus,https://www.tfgm.com,Europe/London,en
+RDCA,Nexus Move,https://www.tfgm.com,Europe/London,en
+ROST,Rosso,https://www.tfgm.com,Europe/London,en
+RSTY,Tyrers,https://www.tfgm.com,Europe/London,en
+SCMN,Stagecoach Manchester,https://www.tfgm.com,Europe/London,en
+SCMY,Stagecoach Lancashire,https://www.tfgm.com,Europe/London,en
+SELT,Selwyns,https://www.tfgm.com,Europe/London,en
+SPCT,South Pennine C.T.,https://www.tfgm.com,Europe/London,en
+STOT,Stotts,https://www.tfgm.com,Europe/London,en
+TASL,Travel Assist Services,https://www.tfgm.com,Europe/London,en
+VIKG,Viking Coaches,https://www.tfgm.com,Europe/London,en
+VISB,Vision Bus,https://www.tfgm.com,Europe/London,en
+WBTR,Warrington's Own Buses,https://www.tfgm.com,Europe/London,en
+YTIG,Yorkshire Tiger,https://www.tfgm.com,Europe/London,en
